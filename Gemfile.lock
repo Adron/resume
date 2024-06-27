@@ -1,4 +1,20 @@
+PATH
+  remote: .
+  specs:
+    dev-portfolio-blog (0.1.8)
+      autoprefixer-rails
+      jekyll (~> 3.8.7)
+      jekyll-assets
+      jekyll-feed
+      jekyll-minifier
+      jekyll-paginate-v2
+      jekyll-seo-tag
+      jekyll-sitemap
+      jemoji
+      sprockets (~> 3.7)
+
 GEM
+  remote: https://rubygems.org/
   specs:
     activesupport (5.2.8.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -13,17 +29,6 @@ GEM
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
     cssminify2 (2.0.1)
-    dev-portfolio-blog (0.1.9)
-      autoprefixer-rails
-      jekyll (~> 3.8.7)
-      jekyll-assets
-      jekyll-feed
-      jekyll-minifier
-      jekyll-paginate-v2
-      jekyll-seo-tag
-      jekyll-sitemap
-      jemoji
-      sprockets (~> 3.7)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -111,6 +116,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (4.0.7)
     rack (2.2.9)
+    rake (12.3.3)
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -135,8 +141,18 @@ PLATFORMS
   universal-darwin-23
 
 DEPENDENCIES
-  dev-portfolio-blog
-  jekyll (~> 3.8)
+  autoprefixer-rails
+  bundler
+  dev-portfolio-blog!
+  jekyll-assets
+  jekyll-feed
+  jekyll-minifier
+  jekyll-paginate-v2
+  jekyll-seo-tag
+  jekyll-sitemap
+  jemoji
+  rake
+  sprockets (~> 3.7)
 
 BUNDLED WITH
    2.3.6

@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: Adron Hall | Blog
 pagination:
   enabled: true
 ---
