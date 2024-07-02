@@ -1,7 +1,7 @@
 ---
 layout: description
-title: Blog
-pagetype: blog
+title: projectz
+pagetype: projectz
 ---
 <!-- This loops through the paginated posts -->
 
@@ -9,7 +9,7 @@ pagetype: blog
 {% if paginator.total_posts == 0 %}
     <p>No posts right now.</p>
 {% else %}
-<div class="blogPage-categoryList">
+<div class="projectzPage-categoryList">
     <ul>
     <li><a href="{{ "/categories/" | relative_url }}">Categories</a> : </li>
     {% for category in site.categories %}
@@ -18,10 +18,10 @@ pagetype: blog
     {% endfor %}
 </ul>
 </div>
-<ul class="blog-list">
+<ul class="projectz-list">
     {% for post in paginator.posts %}
         <li>
-            <a class="blog-heading" href="{{ post.url | relative_url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span>
+            <a class="projectz-heading" href="{{ post.url | relative_url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span>
             <div class="excerpt">{{ post.excerpt }}</div>
         </li>
     {% endfor %}

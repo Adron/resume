@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dev-portfolio-blog (0.1.8)
+    dev-portfolio-projectz (0.1.8)
       autoprefixer-rails
       jekyll (~> 3.8.7)
       jekyll-assets
@@ -143,7 +143,7 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   bundler
-  dev-portfolio-blog!
+  dev-portfolio-projectz!
   jekyll-assets
   jekyll-feed
   jekyll-minifier

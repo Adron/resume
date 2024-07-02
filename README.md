@@ -1,11 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- [![Gem Version](https://badge.fury.io/rb/dev-portfolio-blog.svg)](https://badge.fury.io/rb/dev-portfolio-blog)
-![](https://ruby-gem-downloads-badge.herokuapp.com/dev-portfolio-blog)
+ [![Gem Version](https://badge.fury.io/rb/dev-portfolio-projectz.svg)](https://badge.fury.io/rb/dev-portfolio-projectz)
+![](https://ruby-gem-downloads-badge.herokuapp.com/dev-portfolio-projectz)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/rohitjain00/dev-portfolio-blog/badge)](https://www.codefactor.io/repository/github/rohitjain00/dev-portfolio-blog)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d0b9f1c23f564a8195a8588de7895c4c)](https://www.codacy.com/manual/rohitjain00/dev-portfolio-blog?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rohitjain00/dev-portfolio-blog&amp;utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/rohitjain00/dev-portfolio-projectz/badge)](https://www.codefactor.io/repository/github/rohitjain00/dev-portfolio-projectz)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d0b9f1c23f564a8195a8588de7895c4c)](https://www.codacy.com/manual/rohitjain00/dev-portfolio-projectz?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rohitjain00/dev-portfolio-projectz&amp;utm_campaign=Badge_Grade)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frohitjain00%2Fdev-portfolio-blog&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frohitjain00%2Fdev-portfolio-projectz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Home pagespeed
 
@@ -13,16 +13,16 @@
 ![GitHub PageSpeed](https://api.speedbadge.io/v1?url=therohitjain.com&strat=desktop&showStratLabel=true)
 
 
-## Blog pagespeed
+## projectz pagespeed
 
-![GitHub PageSpeed](https://api.speedbadge.io/v1?url=therohitjain.com/blog&showStratLabel=true)
-![GitHub PageSpeed](https://api.speedbadge.io/v1?url=therohitjain.com/blog&strat=desktop&showStratLabel=true)
+![GitHub PageSpeed](https://api.speedbadge.io/v1?url=therohitjain.com/projectz&showStratLabel=true)
+![GitHub PageSpeed](https://api.speedbadge.io/v1?url=therohitjain.com/projectz&strat=desktop&showStratLabel=true)
 
 
 
-# dev-portfolio-blog
+# dev-portfolio-projectz
 
-This is a minimal jekyll theme for writing blogs and about yourself.
+This is a minimal jekyll theme for writing projectzs and about yourself.
 
 ## features
  1. Google Analytics
@@ -30,10 +30,10 @@ This is a minimal jekyll theme for writing blogs and about yourself.
  3. Disqus comments
  4. Categorization
  5. Emojis Support
- 6. Highly optimized blog
+ 6. Highly optimized projectz
      #### PageSpeed Insights
      * [Home](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com)[(therohitjain.com)](https://therohitjain.com)
-     * [Blog](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com/blog/)[(therohitjain.com/blog/)](https://therohitjain.com/blog/)
+     * [projectz](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com/projectz/)[(therohitjain.com/projectz/)](https://therohitjain.com/projectz/)
      * [About](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com/about/)[(therohitjain.com/about/)](https://therohitjain.com/about/)
 
 
@@ -41,13 +41,13 @@ This is a minimal jekyll theme for writing blogs and about yourself.
 
 ![Home Page](/screenshots/Home.png?raw=true "Home View of the website")
 
-![Blog List Page](/screenshots/Blog.png?raw=true "Blog List of the website")
+![projectz List Page](/screenshots/projectz.png?raw=true "projectz List of the website")
 
 ## Mobile Preview
 
 ![Home Page](/screenshots/Home-Mobile.png?raw=true "Home View of the website")
 
-![Blog List Page](/screenshots/Blog-Mobile.png?raw=true "Blog List of the website")
+![projectz List Page](/screenshots/projectz-Mobile.png?raw=true "projectz List of the website")
 
 
 ## Installation
@@ -55,13 +55,13 @@ This is a minimal jekyll theme for writing blogs and about yourself.
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "dev-portfolio-blog"
+gem "dev-portfolio-projectz"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: dev-portfolio-blog
+theme: dev-portfolio-projectz
 ```
 
 And then execute:
@@ -70,7 +70,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install dev-portfolio-blog
+    $ gem install dev-portfolio-projectz
 
 ## Usage
 
@@ -87,12 +87,12 @@ Assuming that you started your first website based on `minima` theme from [here]
 
 1. Add a `favicon.ico` to the root directory for favicon.
 
-2. Create `blog.md` in the root folder ans set its yaml parameters to
+2. Create `projectz.md` in the root folder ans set its yaml parameters to
 
 ```yaml
-layout: blog
-permalink: /blog/
-title: [Blog Page Title]
+layout: projectz
+permalink: /projectz/
+title: [projectz Page Title]
 pagination:
   enabled: true
 ```
@@ -144,7 +144,7 @@ Visit [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2/blob/m
 ### Check here [_config.yml](https://github.com/rohitjain00/rohitjain00.github.io/blob/site/_config.yml) for example config file.
 
 
-## Writing a new blog
+## Writing a new projectz
 
 Create a new folder `_posts` in root folder if not already exists.
 
@@ -169,7 +169,7 @@ Post Text.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at <https://github.com/rohitjain00/dev-portfolio-blog/.> This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at <https://github.com/rohitjain00/dev-portfolio-projectz/.> This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 
@@ -178,9 +178,9 @@ To set up your environment to develop this theme, run `bundle install`.
 Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
 When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `dev-portfolio-blog.gemspec` accordingly.
+To add a custom directory to your theme-gem, please edit the regexp in `dev-portfolio-projectz.gemspec` accordingly.
 
-### Read about the themes and how it's implemented [here](https://github.com/rohitjain00/dev-portfolio-blog/wiki/Theme-Management)
+### Read about the themes and how it's implemented [here](https://github.com/rohitjain00/dev-portfolio-projectz/wiki/Theme-Management)
 
 ## License
 
