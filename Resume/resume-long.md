@@ -5,7 +5,7 @@
 
 ## Experience
 
-### Principal Engineer (Architect, Consultant, Trainer)
+### > Principal Engineer (Architect, Consultant, Trainer)
 CTC - Owner/Consultant
 February 2023 - Present
 Redmond, WA - Remote
@@ -26,7 +26,7 @@ Advocating technical solutions across teams internally through a Community of Pr
 
 Created and built out some internal corporate training focused around deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
 
-### Principal Product Manager
+### > Principal Product Manager
 Hasura - Full Time
 April 2022 - February 2023
 Seattle, WA - Remote
