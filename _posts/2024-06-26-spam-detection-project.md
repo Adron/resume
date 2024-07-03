@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: java, spring boot, architecture, spam detection, udf, udef, proofpoint, sms, mms, docker, aws, micrometer, monitoring, logging, asynchronous, http, webclient, multi-part messages, spam detection, proofpoint, spring boot, docker, aws, scaling, orchestration, deployment
 ---
 
 Adron here, diving into the nitty-gritty of my latest project: building a robust SMS/MMS content filter leveraging Spring Boot and Proofpoint. This project was all about creating a seamless and efficient spam detection service. Let me take you through how the team and I put it all together.
@@ -68,8 +69,6 @@ By combining Spring Boot with Proofpoint's advanced spam detection capabilities,
 That’s all for now. Stay tuned for more insights into my projects, and as always, happy coding!
 
 ---
-
-*The happy thrashing coder, **Adron Hall***
 
 > P.S. If you have any questions or want to share your experiences with spam detection, drop a comment or reach out to me directly. Let's keep the conversation going!
 
