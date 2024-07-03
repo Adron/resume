@@ -5,7 +5,7 @@
 
 ## Experience
 
-### > Principal Engineer (Architect, Consultant, Trainer)
+### Principal Engineer (Architect, Consultant, Trainer)
 CTC - Owner/Consultant
 February 2023 - Present
 Redmond, WA - Remote
@@ -26,7 +26,7 @@ Advocating technical solutions across teams internally through a Community of Pr
 
 Created and built out some internal corporate training focused around deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
 
-### > Principal Product Manager
+### Principal Product Manager
 Hasura - Full Time
 April 2022 - February 2023
 Seattle, WA - Remote
@@ -71,6 +71,7 @@ Videos @ Hasura with "A Hasura Bit" video shorts [here](https://youtube.com/play
 
 ### Principal Cloud Architect / Principal Developer Advocate
 DataStax - Full Time
+Seattle, WA - Remote
 
 *Principal Cloud Architect during December 2019 - August 2020*
 
@@ -94,3 +95,91 @@ Written Articles/Blog Entries: https://www.datastax.com/our-people/adron-hall
 Multi-cloud Challenges w/ Adron Hall & Patrick McFadin: https://www.datastax.com/resources/video/multi-cloud-challenges-adron-hall-and-patrick-mcfadin
 A fun guest appearance on The Open Source Show: https://learn.microsoft.com/en-us/shows/the-open-source-show/distributed-systems-demystified-cassandra-datastax-demo-and-faq
 
+### Composite Thrashing Code - Consultancy/Contract
+
+*Principal Software Engineer*
+November 2016 - November 2017
+Seattle, WA - Remote
+
+Projects @ Pelo.Tech
+
+1. Led the effort to rebuild the company site and bring together community building efforts around development efforts, language stacks, and related outreach.
+2. Mentored other developers as they worked to ramp up on various projects that the company was leading across multiple e-commerce and IoT device companies.
+3. Led BDR efforts to expand outreach in the Seattle area in relation to our development services, product offerings that underly our unique development services, and related capabilities.Projects: 1. Led the effort to rebuild the company site and bring together community building efforts around Pelotech development efforts, language stacks, and related outreach. 2. Mentored other developers as they worked to ramp up on various projects that the company was leading across multiple e-commerce and IoT device companies. 3. Led BDR efforts to expand outreach in the Seattle area in relation to our development services, product offerings that underly our unique development services, and related capabilities.
+
+Projects helping startups initiate their first technical hires, team hiring, and further build out.
+
+I've pushed businesses forward using lean startup approaches, focused on quality, user experience, and putting together teams of people (coders, graphic design, user experience, and other roles) that can get products built and deployed with the capabilities and features needed. Offering & routinely providing hands on initial coding, prototyping, and related work for startups moving toward MVP and v1 of their offering.
+
+The approach I take has been technology neutral. However there have been some that are routinely called for including; Go, Node.js, and JavaScript for multi-tier web development (React). 
+
+### Principal Software Engineer, SRE, & Open Source Ethnographer
+Home Depot - Full Time
+Orchards, WA - Hybrid
+
+For a good idea of what I worked on during my time at Home Depot check out the following blog entries:
+ - https://compositecode.blog/2016/01/26/all-that-tech-sitrep-elastic-meetup-and-quote-center-updates/
+ - https://compositecode.blog/2015/10/31/after-816-days-im-taking-a-job/
+
+A few high points: Researching the cultural changes and characteristics for building an effective organization around open source development. Determining what is and what won't work for the team specifically. Implementing techniques and ideas around pushing code from a close source development practice to an open source development practice. I also presented in October on this specifically at O'Reilly Architecture Conference in London, and have slides and information here: https://compositecode.blog/confs-meetups-events/moving-enterprise-practices-and-development-to-open-source/
+
+Technology high points: Terraform, Packer, Golang, Node.js/JavaScript, Google Cloud Platform, OpenStack, Distributed Systems, etc. Migration from an OpenStack Platform to Google Cloud Platform, Architectural Changes from vertical scaling to horizontal scaling cloud architectures and more.
+
+### Principal Developer
+Contract Work
+March 2012 - August 2015
+Portland, OR - Remote
+
+*Projects at CDK (May 2015 - August 2015)*
+
+At CDK I led two teams; one team of interns and on mid-level and senior devs on two distinct efforts.
+
+1. Build out, navigate CDK's internal *infrastructure*, and determine was is needed to deploy a push notification server.
+2. Lead an effort among interns and staff for the *challenge* series. This involved determining use case, product fit, and options for deployment of various applications CDK teams could use internally.
+
+*Projects at Code Fellows (Feburary 2015 - April 2015)*
+
+I worked with Code Fellows to start up the Portland branch of the Code Fellows School. During this time I worked as the initial instructor with a team opening up the office and providing the first multi-week long training sessions.
+
+The sessions were based on core web development skills needed to attain a junior level development position. This included the standard trio of HTML, CSS, and JavaScript, along with a further dive into various frameworks, libraries, and other tooling one would work with to build out various sites.
+
+Supporting courses included Git, IDEs, and related curriculum and materials to round out the student's education.
+
+*Project at New Relic (March 2012-November 2014)*
+
+Working with New Relic I've produced a number of individual and series of blog articles (http://blog.newrelic.com/) based around Platform as a Service (PaaS) Technologies, Node.js Applications and deployments and a number of other various topics.
+
+With the articles I've written for New Relic there have been a number of others for related publications that I've written in conjunction with New Relic. These publications include; Mashable, Silicon Angle, Read, Write, Web, and others. Links to those articles can be found here: https://compositecode.blog/write-up-series/my-work-elsewhere/
+
+Tier 2 + New Relic - worked on integration and data collection of APM tooling, with their teams to integrate with PAAS environments like Cloud Foundry.
+Worked with New Relic & Basho for tooling integration around the Riak distributed database and the New Relic APM tooling.
+
+*Projects at Basho (December 2012 - August 2013)*
+
+Responsible for partnership reconnoitering, assisting on sales calls, working with partnership integration at New Relic and others. Handled all community organizing, conference organization and outreach in the Pacific Northwest (Cascadia Region). The user groups I formed and managed included two key groups: Seattle & Portland Basho & Riak User Groups
+
+I also attended, spoke at and provided training at a number of conferences and user groups throughout the United States.
+
+Coding & development of vertical integration projects along with other horizontally scaled integration projects. From a tactical perspective integration involved JavaScript (Node.js), Ruby (on Rails, Sinatra or other variances), middleman for documentation, .NET and other languages working with Riak. Assisted customers with horizontal and vertical architecture around networking, security and other requirements to implement Riak, Riak with Redis, Neo4j, Postgres and other various technologies to provide highly available, scalable, high performance, resilient distributed data systems for application development.
+
+*Projects at Tier 3 (March 2012 - November 2012)*
+
+I joined Tier 3 in March to lead the Web Fabric PaaS Team, expand the Iron Foundry Community (http://www.ironfoundry.org/) and push forward the Thor Projects (http://www.ironfoundry.org/thor).
+
+The initial release of the Tier 3 Web Fabric was deployed in May (http://www.tier3.com/blog/web-data-fabric). After the release I have focused primarily around advocacy, community leadership around the Iron Foundry Open Source Software Projects and initiating, building and leading the team that is coding the Thor Project as a UI for Cloud Foundry PaaS Environments.
+
+In addition to these efforts I also routinely speak at user groups, keynotes, or other groups and lead community efforts around mentoring, teaching and expanding programming practice and knowledge in several cities including Seattle, Portland, San Francisco and generally anywhere I can get to and organize events.
+
+*Project Iron Foundry, Organization Coder & Community Lead from (November 2012 - February 2013)*
+
+Same company as Tier 3, same awesome team, slightly different tooling focus and project focus. Working with the open source community and the Tier 3 team to further the Iron Foundry Community (http://www.ironfoundry.org/) and push forward the Thor User Interface Projects around the Cloud Foundry Community & Products (http://www.cloudfoundry.org). Private, enterprise or public PaaS technologies.
+
+### Co-founder & CTO of Deconstructured
+November 2013 - February 2015
+Portland, OR
+
+I led a team that built a regionally distributed, load balanced multi-instance, auto-scaling engine that takes consociated profile data from multiple devices and builds core individual profiles for query. Included in that is a simple business rules engine that takes those queries and processes those elements of the profile to take action for sales, marketing, systemic, or related processing of the data and post-processing actions.
+
+- 70% of time: The core technology has been centered on Amazon Web Services (AWS) using their respective services: Elastic Beanstalk, CloudFormation, EC2, S3, RDS, Route 53, Identity & Access Management, and SQS. The system built on these AWS services was a core engine and multiple processor services for the engine all built with Node.js 0.10.x. This was done as an easy move from no product to MVP/prototype with the easy ability to drop components of the design and move them to stacks that might be more applicable to their particular use (such as Erlang for distributed processing, Java for more complex and mature business rules, etc). However at no point did we find any weakness or necessity to move anything from JavaScript on Node.js into another language or stack.
+- 20% of time: I spent an additional amount of time working with contracts, agreements, and within the open source community determining technology needs, who would best meet requirements we needed for specific tasks and keeping this all within a budget.
+- 10% of time: Speaking with, to, and for the community in regard to the product, the technology we'd been developing in and working toward the next stage of company development.
