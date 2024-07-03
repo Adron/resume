@@ -5,12 +5,21 @@ layout: description
 <small>{{ post.date | date_to_string }}</small>
 {{content}}
 
-<div class="post-footer">
-<div class="post-categories">
-
+<div>Contact me @ Mastadon <a href="https://metalhead.club/@adron">@Adron</a>, LinkedIn <a href="https://www.linkedin.com/in/adron/">@Adron</a>, or via <a href="https://compositecode.blog/contact/">Contact Form</a>.
 </div>
-<div>Mastadon <a href="https://metalhead.club/@adron">@Adron</a> or LinkedIn <a href="https://www.linkedin.com/in/adron/">@Adron</a></div>
-
+<div class="post-footer">
+  <div class="post-categories">
+    Categories :
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  </div>
 </div>
 {% if site.disqus.shortname and page.comments %}
   <hr>
