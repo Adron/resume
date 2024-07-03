@@ -147,6 +147,8 @@ Supporting courses included Git, IDEs, and related curriculum and materials to r
 
 *Project at New Relic (March 2012-November 2014)*
 
+NOTE: This work was done while also running a startup (see Deconstructed below), since we both had numerous parallels and teamed up to do that work.
+
 Working with New Relic I've produced a number of individual and series of blog articles (http://blog.newrelic.com/) based around Platform as a Service (PaaS) Technologies, Node.js Applications and deployments and a number of other various topics.
 
 With the articles I've written for New Relic there have been a number of others for related publications that I've written in conjunction with New Relic. These publications include; Mashable, Silicon Angle, Read, Write, Web, and others. Links to those articles can be found here: https://compositecode.blog/write-up-series/my-work-elsewhere/
@@ -183,3 +185,77 @@ I led a team that built a regionally distributed, load balanced multi-instance, 
 - 70% of time: The core technology has been centered on Amazon Web Services (AWS) using their respective services: Elastic Beanstalk, CloudFormation, EC2, S3, RDS, Route 53, Identity & Access Management, and SQS. The system built on these AWS services was a core engine and multiple processor services for the engine all built with Node.js 0.10.x. This was done as an easy move from no product to MVP/prototype with the easy ability to drop components of the design and move them to stacks that might be more applicable to their particular use (such as Erlang for distributed processing, Java for more complex and mature business rules, etc). However at no point did we find any weakness or necessity to move anything from JavaScript on Node.js into another language or stack.
 - 20% of time: I spent an additional amount of time working with contracts, agreements, and within the open source community determining technology needs, who would best meet requirements we needed for specific tasks and keeping this all within a budget.
 - 10% of time: Speaking with, to, and for the community in regard to the product, the technology we'd been developing in and working toward the next stage of company development.
+
+### Senior Application Developer
+Russell Investments
+November 2010 - January 2012
+Seattle, WA
+
+Working on Enterprise Systems & related architecture to bridge data from many inbound sources to create cohesive information and reporting displays for traders, accountants, and others within the company.
+
+Other Projects Include:
+ Training & mentoring provided for various tools within our team such as Git, Visual Studio, Unit Testing, TDD, and more.
+ Consulting on enterprise high availability solutions, opportunities within the company for existing architecture, and where our future paths lead around these goals.
+ Coding within teams using TDD/BDD pair programming techniques. High communication, high velocity, high quality development with proactive burn down and charting to provide management with insight to remove barriers to development.
+
+Currently we use a plethora of open source tooling and work with multiple frameworks. The primary production deployed frameworks are centered around .NET and Windows Server Technology, however our team works daily on new ways that push the barriers, regularly with technology outside of the Microsoft Stack such as; node.js, Javascript Libraries, Ruby, Rails, Sinatra, and many others. If it can help us move our technology utilization forward, the team takes a look at it.
+
+### Senior Consultant / Programmer Lead
+Logic20/20
+May 2010 - November 2010
+Seattle, WA
+
+Worked as technical lead for 3 Windows Azure White Papers and Cloud Computing. Provided analysis, implementation, and deployment for Windows Azure Storage & Role Usage for demo projects used for training, enterprise environments, and more.
+
+Provided technical architecture for deployed internal ASP.NET MVC Support Site Projects for prototype of Customer Support Portals using map reduction queries against "big data" systems (100+GB in each system), internal support analysis results, and other mechanisms with JavaScript/jQuery utilizing AJAX/Asynchronous calls. i.e. Today’s current SPA or Single Page Applications.
+
+### Business Intelligence & Senior Software Engineer
+Webtrends
+October 2007 - April 2010
+Portland, OR
+
+(65%) Primary role included integration between WebTrends application and SSAS (Analysis Services) utilizing SSIS (Integration Services) and other proprietary tools. Data warehouses & databases ranged from hundreds of thousands to millions of row tables between a couple hundred MBs to several TBs of storage.
+(25%) I developed applications utilizing SSIS, SSAS, and .NET Framework (Web & Windows Forms) to assist in application integrations and data troubleshooting. 
+(10%) I created arrangement and coordination of project work and planning including deployment planning and implementation.
+
+Once completing work with the web services team at Webtrends I rolled over to Webtrends Consulting Solutions & Services Team to do implementations with those services. I provide development integration & implementation support for Adobe AIR, Flash, .NET, Silverlight, WPF, Office 2k7 & 2k3 (a LOT of Excel) and more products that utilize our Webtrends Data Exchange and Collection Services. In addition to the tactical involvement the strategic involvement of Enterprise Governance around analytics, business intelligence, and social media into full spectrum custom intelligence dashboard and scorecard solutions for customers.
+
+This role also has involvement with client communications before, during, and after sales process to assure clients know the full scale and scope of the product capabilities. I often work to coordinate, provide guidance, and consulting to sales, marketing, engineering and other teams as need be to provide successful customer engagements and integrations.
+
+I've also provided leadership in gaining key partners and the respective partner integrations, implementation of integration solutions, and the direction of these partnership efforts from development, relationships, and cost analysis and benefit.
+
+### Software Developer & Architect
+Contract Work
+January 2001 - September 2008
+Portland, OR | Convington, LA | Jacksonville, FL | Tacoma, WA | Memphis, TN
+
+Labor Ready - Acted as IC for development (C#, Java, & prototyping) and also later as team lead for multiple teams.
+
+Instant Media - Build ASP.NET (C#) based web app & components necessary for large media uploads (video) along with infrastructure and related assets.
+
+Corillian - I worked with a team on several projects (C# + XML based platform) for credit union and bank clients. Including Travel to & from clients.
+
+Micro-Power Electronics - Designed/Architected a Quote Management System with Integration into Goldmine CRM (SQL Server) and Fourth Shift Manufacturing(SQL Server) Software Package. I built this solution using ASP.NET Web Application with SQL Server Back end. Utilizing OLAP and OLTP solutions for this.
+
+Citi HR Solutions - I worked with custom server controls to simplify the development of SQL Server data driven applications. Lots of OOP/OOD around C# and Microsoft App Blocks. Significant time training and mentoring junior developers.
+
+Fidelity - I created an internal request management web app with integration into Fidelity’s Security Authenticator. Completed all Database Architecture Design, App Architecture Design, Work Cases (UML Visio), and OOP.
+
+Allstate - OLAP Cube ETL Coder/Data Pipelines - Created OLAP Warehouse feeds utilizing DTS for ETL Processes feeding primary Cubes.
+
+Bank of America - Worked as lead developer on data entry application process enhancements. Led 6 sigma team.
+
+SCP Distributors/ Superior Pool Products - I worked on a team on "Purchasing Console Application" building w/ SQL Server 2000 using ASP.NET/IIS 5.0 to develop a web front end.
+ 
+Caesars Entertainment, Inc. - Develop and streamline the Change Management reporting flow and management system.
+
+Cmedia - Primary function was Sr Systems & Database Administrator and lead developer on multiple Projects.
+
+### PC Tech & Database Administrator
+Lockheed Martin (w/ Nasa, Naval Research Lab, Naval Oceanographic Office) - Full Time
+October 1999 - August 2001
+Stennis Space Center, MS
+
+Provided technical support under two contracts focused around data collection and storage from sensor data on vertical and horizontal rocket tests, including positional (i.e. like GPS) data and it's respective storage and reporting.
+
+Provided y2k mitigation & management of systems hardware and networking. Including appliances replacement, discovery, and patching or analysis and replacementwhen necessary.
