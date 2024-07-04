@@ -259,3 +259,29 @@ Stennis Space Center, MS
 Provided technical support under two contracts focused around data collection and storage from sensor data on vertical and horizontal rocket tests, including positional (i.e. like GPS) data and it's respective storage and reporting.
 
 Provided y2k mitigation & management of systems hardware and networking. Including appliances replacement, discovery, and patching or analysis and replacementwhen necessary.
+
+---
+
+## Education / Courses
+
+### Six Sigma Training - Green Belt / DFSS
+2004
+Grade: A - Finished top 1% of class.
+
+Activities and societies: Worked within the training group as team lead, assisting with accelerating our class team into the lead position within competitions.Activities and societies: Worked within the training group as team lead, assisting with accelerating our class team into the lead position within competitions.
+
+Attended multiple weeks of Greenbelt Training in Charlotte, North Carolina.
+
+### Pearl River Community College
+Associates, Computer Science
+1996-1999
+Grade: A - 3.7 GPA - there is a cool story behind this too.
+Activities & societies: Attained the status of "Who's Who" in final year of college.
+
+### Audited Comp Sci & Attended InfoSec Security @ LSU (Louisiana State University)
+N/A, Computer Science
+1996-1998
+
+Activities and societies: I *audited* computer science classes for 2 years at LSU. This included attending, and working with computer science materials, programming, and related work. I primarily did this, to gain experience but also to help the faculty on various educational endeavors and increasing InfoSec materials in the course work. This was done via invitations from fellow students and faculty who were interested in leveling up some of the security elements of the courses.
+
+Regularly attended 2600 Meetup & worked with infosec groups on penetration testing, physical and network security for DOD, SPR, and infrastructure related assets.
