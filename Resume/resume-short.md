@@ -178,4 +178,4 @@ November 2013 - February 2015 | Portland, OR
 
 Core technology has been centered on Amazon Web Services (AWS) using their respective services: Elastic Beanstalk, CloudFormation, EC2, S3, RDS, Route 53, Identity & Access Management, and SQS. The system built on these AWS services was a core engine and multiple processor services for the engine all built with Node.js 0.10.x.
 
-For further work going into my career, check out my long resume [here](/resume-long.md).
+For further work going into my career, check out my long resume [here](resume-long.md).
