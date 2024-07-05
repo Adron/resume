@@ -8,8 +8,7 @@
 
 ### Principal Engineer (Architect, Consultant, Trainer)
 CTC - Owner/Consultant
-February 2023 - Present
-Redmond, WA - Remote
+February 2023 - Present | Redmond, WA - Remote
 
 Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
 
@@ -211,8 +210,7 @@ Currently we use a plethora of open source tooling and work with multiple framew
 
 ### Senior Consultant / Programmer Lead
 Logic20/20
-May 2010 - November 2010
-Seattle, WA
+May 2010 - November 2010 | Seattle, WA
 
 Worked as technical lead for 3 Windows Azure White Papers and Cloud Computing. Provided analysis, implementation, and deployment for Windows Azure Storage & Role Usage for demo projects used for training, enterprise environments, and more.
 
@@ -220,8 +218,7 @@ Provided technical architecture for deployed internal ASP.NET MVC Support Site P
 
 ### Business Intelligence & Senior Software Engineer
 Webtrends
-October 2007 - April 2010
-Portland, OR
+October 2007 - April 2010 | Portland, OR 
 
 (65%) Primary role included integration between WebTrends application and SSAS (Analysis Services) utilizing SSIS (Integration Services) and other proprietary tools. Data warehouses & databases ranged from hundreds of thousands to millions of row tables between a couple hundred MBs to several TBs of storage.
 (25%) I developed applications utilizing SSIS, SSAS, and .NET Framework (Web & Windows Forms) to assist in application integrations and data troubleshooting. 
@@ -235,8 +232,7 @@ I've also provided leadership in gaining key partners and the respective partner
 
 ### Software Developer & Architect
 Contract Work
-January 2001 - September 2008
-Portland, OR | Convington, LA | Jacksonville, FL | Tacoma, WA | Memphis, TN
+January 2001 - September 2008 | Portland, OR | Convington, LA | Jacksonville, FL | Tacoma, WA | Memphis, TN
 
 Labor Ready - Acted as IC for development (C#, Java, & prototyping) and also later as team lead for multiple teams.
 
@@ -262,8 +258,7 @@ Cmedia - Primary function was Sr Systems & Database Administrator and lead devel
 
 ### PC Tech & Database Administrator
 Lockheed Martin (w/ Nasa, Naval Research Lab, Naval Oceanographic Office) - Full Time
-October 1999 - August 2001
-Stennis Space Center, MS
+October 1999 - August 2001 | Stennis Space Center, MS
 
 Provided technical support under two contracts focused around data collection and storage from sensor data on vertical and horizontal rocket tests, including positional (i.e. like GPS) data and it's respective storage and reporting.
 
