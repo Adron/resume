@@ -12,21 +12,19 @@ February 2023 - Present | Redmond, WA - Remote
 
 Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
 
-Architecture, design, and prototyping of Data Fabric Platform ([More details](https://compositecode.blog/financial-services-data-fabric/)) buy/build technologies for modernization of APIs. This involves working across teams and customers in financial organizations to ensure design elements meet requirements of data consumers and management capabilities of the respective organization, while ensuring ROI is met and measured.
+**[Data Fabric Platform](https://compositecode.blog/financial-services-data-fabric/):** Designed and prototyped buy/build technologies for API modernization, working with financial organizations to meet data consumer needs and ensure ROI.
 
-Setting up groups within the organization around Communities of Practice. Specifically GraphQL Community of Practice and Java Spring Boot Community of Practice. ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
+**[Communities of Practice](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/):** Established GraphQL and Java Spring Boot communities to transform software development practices.
 
-Where necessary implementing vertical application stacks for reference and prototyping with horizontal infrastructure as code assets for scaling, resiliency, deployment, management, and ongoing iterative development of Java Spring Boot based APIs via containerized (Docker/K8s) with continuous deployment.
+**Vertical Application Stacks:** Implemented reference and prototyping stacks with horizontal infrastructure as code assets for scalable, resilient, and continuously deployed Java Spring Boot APIs.
 
-Planning, organizing, and mentoring where needed for a wide array of data sources including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Apache Cassandra, and other data source options as necessary.
+**Mentorship:** Guided the use of various data sources, including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, and Apache Cassandra.
 
-Hiring and building teams for multiple projects centered around financial organizations application API modernization (going from X tech to RESTful & GraphQL APIs, custom resolvers, etc).
+**Team Building:** Hired and built teams for API modernization projects, leading scoping, product planning, and aligning teams with project missions.
 
-Leading multiple projects for teams; including scoping, identifying statement of work, user experience outcomes desired, initial product planning, building the right team with right hard and soft skills, and aligning them with the mission at hand.
+**Technical Advocacy:** Grew the internal GraphQL Community of Practice from a dozen to over 60 members in a few weeks, expecting to exceed 80 members by the fourth month.
 
-Advocating technical solutions across teams internally through a Community of Practice for GraphQL (and related technologies). Grew the community from a small dozen to over 60 people in just a couple of weeks. Community is now going to exceed 80 members by our 4th month! For internal growth this is an excellent growth path among the data teams!
-
-Created and built out some internal corporate training focused around deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
+**Corporate Training:** Developed training focused on deployment solutions and plans using Terraform for Infrastructure as Code based on immutable infrastructure concepts.
 
 ### Principal Product Manager
 Hasura - Full Time
