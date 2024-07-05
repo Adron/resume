@@ -175,7 +175,7 @@ In addition to these efforts I also routinely speak at user groups, keynotes, or
 
 *Project Iron Foundry, Organization Coder & Community Lead from (November 2012 - February 2013)*
 
-Same company as Tier 3, same awesome team, slightly different tooling focus and project focus. Working with the open source community and the Tier 3 team to further the Iron Foundry Community (http://www.ironfoundry.org/) and push forward the Thor User Interface Projects around the Cloud Foundry Community & Products (http://www.cloudfoundry.org). Private, enterprise or public PaaS technologies.
+Working with the open source community and the Tier 3 team to enable Cloud Foundry for .NET.
 
 ### Co-founder & CTO of Deconstructured
 November 2013 - February 2015
