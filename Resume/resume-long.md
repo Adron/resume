@@ -1,7 +1,7 @@
 # Adron Hall
 
 * Redmond, WA (Seattle, WA Metro)
-* Blog: https://compositecode.blog/
+* Blog: https://compositecode.blog/ - [Contact me](https://compositecode.blog/contact/)
 * LinkedIn: https://www.linkedin.com/in/adron/
 
 ## Experience
