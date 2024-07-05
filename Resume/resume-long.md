@@ -12,21 +12,15 @@ February 2023 - Present | Redmond, WA - Remote
 
 Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
 
-Architecture, design, and prototyping of Data Fabric Platform ([More details](https://compositecode.blog/financial-services-data-fabric/)) buy/build technologies for modernization of APIs. This involves working across teams and customers in financial organizations to ensure design elements meet requirements of data consumers and management capabilities of the respective organization, while ensuring ROI is met and measured.
-
-Setting up groups within the organization around Communities of Practice. Specifically GraphQL Community of Practice and Java Spring Boot Community of Practice. ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
-
-Where necessary implementing vertical application stacks for reference and prototyping with horizontal infrastructure as code assets for scaling, resiliency, deployment, management, and ongoing iterative development of Java Spring Boot based APIs via containerized (Docker/K8s) with continuous deployment.
-
-Planning, organizing, and mentoring where needed for a wide array of data sources including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Apache Cassandra, and other data source options as necessary.
-
-Hiring and building teams for multiple projects centered around financial organizations application API modernization (going from X tech to RESTful & GraphQL APIs, custom resolvers, etc).
-
-Leading multiple projects for teams; including scoping, identifying statement of work, user experience outcomes desired, initial product planning, building the right team with right hard and soft skills, and aligning them with the mission at hand.
-
-Advocating technical solutions across teams internally through a Community of Practice for GraphQL (and related technologies). Grew the community from a small dozen to over 60 people in just a couple of weeks. Community is now going to exceed 80 members by our 4th month! For internal growth this is an excellent growth path among the data teams!
-
-Created and built out some internal corporate training focused around deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
+* A recent project included a Spam-mitigation API Service, written in Java Spring Boot, that provided an out of band processing to occur to filter SMS messages for spam and also processing for validity of UDF/Data Type, and encoding & decoding of message formats. Utilizing AWS w/ Terraform, Github Actions, and other respective services for deployment, testing, environment management, and monitoring/observability of service execution. ([More details]())
+* Architecture, design, and prototyping of Data Fabric Platform ([More details](https://compositecode.blog/financial-services-data-fabric/)) buy/build technologies for modernization of APIs. This involves working across teams and customers in financial organizations to ensure design elements meet requirements of data consumers and management capabilities of the respective organization, while ensuring ROI is met and measured.
+* Setting up groups within the organization around Communities of Practice. Specifically GraphQL Community of Practice and Java Spring Boot Community of Practice. ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
+* Where necessary implementing vertical application stacks for reference and prototyping with horizontal infrastructure as code assets for scaling, resiliency, deployment, management, and ongoing iterative development of Java Spring Boot based APIs via containerized (Docker/K8s) with continuous deployment.
+* Planning, organizing, and mentoring where needed for a wide array of data sources including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Apache Cassandra, and other data source options as necessary.
+* Hiring and building teams for multiple projects centered around financial organizations application API modernization (going from X tech to RESTful & GraphQL APIs, custom resolvers, etc).
+* Leading multiple projects for teams; including scoping, identifying statement of work, user experience outcomes desired, initial product planning, building the right team with right hard and soft skills, and aligning them with the mission at hand.
+* Advocating technical solutions across teams internally through a Community of Practice for GraphQL (and related technologies). Grew the community from a small dozen to over 60 people in just a couple of weeks. Community is now going to exceed 80 members by our 4th month! For internal growth this is an excellent growth path among the data teams!
+* Created and built out some internal corporate training focused around deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
 
 *Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, and many others.*
 
@@ -36,9 +30,8 @@ April 2022 - February 2023 | Seattle, WA - Remote
 
 Check out the work @ Hasura for the data source connections here > https://hasura.io/graphql/database/
 
-I rejoined Hasura to become a starting member of a new product management team. I worked to help the team move from a lack of process, to a more process focused product practice. I led and contributed to discussions around customers, use case, design decisions, and product clearing the path and leading engineering for new feature and capabilities development.
-
-In addition to the product specific roles I worked with engineering to streamline the flow and practice of the engineering process too. This included synchronizing tooling of Productboard and JIRA between engineering and the product team. With the tooling synchronized and an agreed upon work flow we were able to shift gears, improve communication, and push forward new feature development in a more consistent, quality, and clear path form inception, ideation, development, and "done".
+* I rejoined Hasura to become a starting member of a new product management team. I worked to help the team move from a lack of process, to a more process focused product practice. I led and contributed to discussions around customers, use case, design decisions, and product clearing the path and leading engineering for new feature and capabilities development.
+* In addition to the product specific roles I worked with engineering to streamline the flow and practice of the engineering process too. This included synchronizing tooling of Productboard and JIRA between engineering and the product team. With the tooling synchronized and an agreed upon work flow we were able to shift gears, improve communication, and push forward new feature development in a more consistent, quality, and clear path form inception, ideation, development, and "done".
 
 From a tactical level several key features were released under my helm:
 
