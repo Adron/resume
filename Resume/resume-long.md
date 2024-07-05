@@ -167,9 +167,9 @@ Coding & development of vertical integration projects along with other horizonta
 
 *Projects at Tier 3 (March 2012 - November 2012)*
 
-I joined Tier 3 in March to lead the Web Fabric PaaS Team, expand the Iron Foundry Community (http://www.ironfoundry.org/) and push forward the Thor Projects (http://www.ironfoundry.org/thor).
+I joined Tier 3 in March to lead the Web Fabric PaaS Team, expand the Iron Foundry Community and push forward the Thor Projects.
 
-The initial release of the Tier 3 Web Fabric was deployed in May (http://www.tier3.com/blog/web-data-fabric). After the release I have focused primarily around advocacy, community leadership around the Iron Foundry Open Source Software Projects and initiating, building and leading the team that is coding the Thor Project as a UI for Cloud Foundry PaaS Environments.
+The initial release of the Tier 3 Web Fabric was deployed in May. After the release I have focused primarily around advocacy, community leadership around the Iron Foundry Open Source Software Projects and initiating, building and leading the team that is coding the Thor Project as a UI for Cloud Foundry PaaS Environments.
 
 In addition to these efforts I also routinely speak at user groups, keynotes, or other groups and lead community efforts around mentoring, teaching and expanding programming practice and knowledge in several cities including Seattle, Portland, San Francisco and generally anywhere I can get to and organize events.
 
