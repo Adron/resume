@@ -12,6 +12,8 @@ February 2023 - Present | Redmond, WA - Remote
 
 *Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, SQL, RESTful & GraphQL APIs, AWS, Terraform, Cloudformation, and many others.*
 
+**[Spam Deptection Project](https://compositecode.blog/spam-detection-project/):** A Spam-mitigation API service in Java Spring Boot, filtering SMS messages for spam, validating UDF/Data Types, and handling message format encoding/decoding. Deployed and managed on AWS using Terraform and GitHub Actions, with services for testing, environment management, and monitoring.
+
 **[Data Fabric Platform](https://compositecode.blog/financial-services-data-fabric/):** Designed and prototyped buy/build technologies for API modernization, working with financial organizations to meet data consumer needs and ensure ROI.
 
 **[Communities of Practice](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/):** Established GraphQL and Java Spring Boot communities to transform software development practices.
