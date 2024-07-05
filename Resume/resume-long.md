@@ -32,8 +32,7 @@ Created and built out some internal corporate training focused around deployment
 
 ### Principal Product Manager
 Hasura - Full Time
-April 2022 - February 2023
-Seattle, WA - Remote
+April 2022 - February 2023 | Seattle, WA - Remote
 
 Check out the work @ Hasura for the data source connections here > https://hasura.io/graphql/database/
 
@@ -50,8 +49,7 @@ From a tactical level several key features were released under my helm:
 
 ### AWS Senior Technical Project Manager
 Amazon Web Services - Full Time
-November 2021 - April 2022
-Seattle, WA - Remote
+November 2021 - April 2022 | Seattle, WA - Remote
 
 60% of time writing, researching, and producing data analysis and information around AppSync, Amplify and related developer use. Including coding of production level CI/CD and related examples of the systems in use, schema modeling, and web site architecture and deployment.
 
@@ -63,8 +61,7 @@ A post I wrote @ AWS, ["How to connect your GraphQL to AWS data sources"](https:
 
 ### Principal Developer Advocate
 Hasura - Full Time
-September 2020 - October 2021
-Seattle, WA - Remote
+September 2020 - October 2021 | Seattle, WA - Remote
 
 30% of time - working on reference, prototyping, and development of application usage around GraphQL APIs using Hasura. Involving JavaScript, Go, Python, and other languages stacks and their utilization of GraphQL as the communication medium between application and API/data services.
 
@@ -106,8 +103,7 @@ A fun guest appearance on The Open Source Show: https://learn.microsoft.com/en-u
 ### Composite Thrashing Code - Consultancy/Contract
 
 *Principal Software Engineer*
-November 2016 - November 2017
-Seattle, WA - Remote
+November 2016 - November 2017 | Seattle, WA - Remote
 
 Projects @ Pelo.Tech
 
@@ -135,8 +131,7 @@ Technology high points: Terraform, Packer, Golang, Node.js/JavaScript, Google Cl
 
 ### Principal Developer
 Contract Work
-March 2012 - August 2015
-Portland, OR - Remote
+March 2012 - August 2015 | Portland, OR - Remote
 
 *Projects at CDK (May 2015 - August 2015)*
 
@@ -185,8 +180,8 @@ In addition to these efforts I also routinely speak at user groups, keynotes, or
 Working with the open source community and the Tier 3 team to enable Cloud Foundry for .NET.
 
 ### Co-founder & CTO of Deconstructured
-November 2013 - February 2015
-Portland, OR
+Deconstructed
+November 2013 - February 2015 | Portland, OR
 
 I led a team that built a regionally distributed, load balanced multi-instance, auto-scaling engine that takes consociated profile data from multiple devices and builds core individual profiles for query. Included in that is a simple business rules engine that takes those queries and processes those elements of the profile to take action for sales, marketing, systemic, or related processing of the data and post-processing actions.
 
@@ -196,8 +191,7 @@ I led a team that built a regionally distributed, load balanced multi-instance, 
 
 ### Senior Application Developer
 Russell Investments
-November 2010 - January 2012
-Seattle, WA
+November 2010 - January 2012 | Seattle, WA
 
 Working on Enterprise Systems & related architecture to bridge data from many inbound sources to create cohesive information and reporting displays for traders, accountants, and others within the company.
 
