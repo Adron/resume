@@ -38,8 +38,6 @@ I rejoined Hasura to become a starting member of a new product management team. 
 
 In addition to the product specific roles I worked with engineering to streamline the flow and practice of the engineering process too. This included synchronizing tooling of Productboard and JIRA between engineering and the product team. With the tooling synchronized and an agreed upon work flow we were able to shift gears, improve communication, and push forward new feature development in a more consistent, quality, and clear path form inception, ideation, development, and "done".
 
-From a tactical level several key features were released under my helm:
-
 1. Instant GraphQL on Amazon Athena ([link](https://hasura.io/blog/announcing-amazon-athena-integration))
 2. Instant GraphQL on Snowflake ([link](https://hasura.io/blog/introducing-instant-graphql-apis-for-snowflake-cloud-data-platform))
 
