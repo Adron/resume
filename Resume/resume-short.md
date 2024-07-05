@@ -26,6 +26,8 @@ Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Commun
 
 **Corporate Training:** Developed training focused on deployment solutions and plans using Terraform for Infrastructure as Code based on immutable infrastructure concepts.
 
+Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, and many others.
+
 ### Principal Product Manager
 Hasura - Full Time
 April 2022 - February 2023 | Seattle, WA - Remote
