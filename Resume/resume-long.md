@@ -1,6 +1,6 @@
 # Adron Hall
 
-* [Word Version](https://github.com/Adron/resume/raw/main/Resume/resume-long.docx) - 10+ pages. [Shorter version 5+ pages](https://github.com/Adron/resume/raw/main/Resume/resume-short.docx)
+* [Word Version](https://github.com/Adron/resume/raw/main/Resume/resume-long.docx) - 10+ pages. [Short version](https://github.com/Adron/resume/edit/main/Resume/resume-short.md)
 * Redmond, WA (Seattle, WA Metro)
 * Blog: https://compositecode.blog/ - [Contact me](https://compositecode.blog/contact/)
 * LinkedIn: https://www.linkedin.com/in/adron/
