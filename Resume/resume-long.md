@@ -21,13 +21,15 @@ Where necessary implementing vertical application stacks for reference and proto
 
 Planning, organizing, and mentoring where needed for a wide array of data sources including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Apache Cassandra, and other data source options as necessary.
 
-Hiring and building teams for multiple projects centered around financial organizations application API modernization (going from X tech to RESTful & GraphQL APIs).
+Hiring and building teams for multiple projects centered around financial organizations application API modernization (going from X tech to RESTful & GraphQL APIs, custom resolvers, etc).
 
 Leading multiple projects for teams; including scoping, identifying statement of work, user experience outcomes desired, initial product planning, building the right team with right hard and soft skills, and aligning them with the mission at hand.
 
 Advocating technical solutions across teams internally through a Community of Practice for GraphQL (and related technologies). Grew the community from a small dozen to over 60 people in just a couple of weeks. Community is now going to exceed 80 members by our 4th month! For internal growth this is an excellent growth path among the data teams!
 
 Created and built out some internal corporate training focused around deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
+
+*Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, and many others.*
 
 ### Principal Product Manager
 Hasura - Full Time
@@ -45,6 +47,8 @@ From a tactical level several key features were released under my helm:
 1. Instant GraphQL on Amazon Athena ([link](https://hasura.io/blog/announcing-amazon-athena-integration))
 2. Instant GraphQL on Snowflake ([link](https://hasura.io/blog/introducing-instant-graphql-apis-for-snowflake-cloud-data-platform))
 
+*Tooling: Haskell, Java, C#, Python, JavaScript, PostgreSQL, Amazon Athena, Snowflake, and numerous other technologies for integration and architectural guidance.*
+
 ### AWS Senior Technical Project Manager
 Amazon Web Services - Full Time
 November 2021 - April 2022
@@ -55,6 +59,8 @@ Seattle, WA - Remote
 40% Production of documentation, articles, and written details related to developer usage of Amplify, AppSync, GraphQL, data infrastructure, DynamoDB, and other key AWS Services related to these specific services.
 
 A post I wrote @ AWS, ["How to connect your GraphQL to AWS data sources"](https://aws.amazon.com/blogs/mobile/how-to-connect-your-graphql-api-to-aws-data-sources/).
+
+*Tooling: JavaScript, 
 
 ### Principal Developer Advocate
 Hasura - Full Time
