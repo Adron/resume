@@ -10,7 +10,7 @@
 CTC - Owner/Consultant
 February 2023 - Present | Redmond, WA - Remote
 
-Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
+*Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, SQL, RESTful & GraphQL APIs, AWS, Terraform, Cloudformation, and many others.*
 
 **[Data Fabric Platform](https://compositecode.blog/financial-services-data-fabric/):** Designed and prototyped buy/build technologies for API modernization, working with financial organizations to meet data consumer needs and ensure ROI.
 
@@ -26,71 +26,78 @@ Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Commun
 
 **Corporate Training:** Developed training focused on deployment solutions and plans using Terraform for Infrastructure as Code based on immutable infrastructure concepts.
 
-Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, and many others.
-
 ### Principal Product Manager
 Hasura - Full Time
 April 2022 - February 2023 | Seattle, WA - Remote
 
-Check out the work @ Hasura for the data source connections here > https://hasura.io/graphql/database/
+*Tooling: Java, C#, Python, JavaScript, PostgreSQL, Amazon Athena, Snowflake, AWS, GCP, Azure, and related cloud architecture and their related services, along with numerous other technologies for integration and architectural guidance.*
 
-I rejoined Hasura to become a starting member of a new product management team. I worked to help the team move from a lack of process, to a more process focused product practice. I led and contributed to discussions around customers, use case, design decisions, and product clearing the path and leading engineering for new feature and capabilities development.
+I rejoined Hasura as a founding member of a new product management team, driving the transition to a more process-oriented approach. I led discussions on customer needs, use cases, design decisions, and new feature development, clearing the path for engineering.
 
-In addition to the product specific roles I worked with engineering to streamline the flow and practice of the engineering process too. This included synchronizing tooling of Productboard and JIRA between engineering and the product team. With the tooling synchronized and an agreed upon work flow we were able to shift gears, improve communication, and push forward new feature development in a more consistent, quality, and clear path form inception, ideation, development, and "done".
+I also worked with engineering to synchronize Productboard and JIRA, streamlining processes and improving communication. This enabled more consistent and quality development from ideation to completion.
 
-1. Instant GraphQL on Amazon Athena ([link](https://hasura.io/blog/announcing-amazon-athena-integration))
-2. Instant GraphQL on Snowflake ([link](https://hasura.io/blog/introducing-instant-graphql-apis-for-snowflake-cloud-data-platform))
+Notable projects:
+1. [Instant GraphQL on Amazon Athena](https://hasura.io/blog/announcing-amazon-athena-integration)
+2. [Instant GraphQL on Snowflake](https://hasura.io/blog/introducing-instant-graphql-apis-for-snowflake-cloud-data-platform)
 
 ### AWS Senior Technical Project Manager
 Amazon Web Services - Full Time
 November 2021 - April 2022 | Seattle, WA - Remote
 
-60% of time writing, researching, and producing data analysis and information around AppSync, Amplify and related developer use. Including coding of production level CI/CD and related examples of the systems in use, schema modeling, and web site architecture and deployment.
+*Tooling: GraphQL, JavaScript, Python, AWS AppSync, AWS DynamoDB, and AWS across other serverless and related offerings.*
 
-40% Production of documentation, articles, and written details related to developer usage of Amplify, AppSync, GraphQL, data infrastructure, DynamoDB, and other key AWS Services related to these specific services.
+60%: Focus on writing, researching, and producing data analysis for AppSync, Amplify, and related developer use. This includes coding production-level CI/CD examples, schema modeling, and website architecture and deployment.
 
-A post I wrote @ AWS, ["How to connect your GraphQL to AWS data sources"](https://aws.amazon.com/blogs/mobile/how-to-connect-your-graphql-api-to-aws-data-sources/).
+40%: Create documentation, articles, and written details on Amplify, AppSync, GraphQL, data infrastructure, DynamoDB, and other key AWS services.
+
+Example post: ["How to connect your GraphQL to AWS data sources"](https://aws.amazon.com/blogs/mobile/how-to-connect-your-graphql-api-to-aws-data-sources/).
 
 ### Principal Developer Advocate
 Hasura - Full Time
 September 2020 - October 2021 | Seattle, WA - Remote
 
-30% of time - working on reference, prototyping, and development of application usage around GraphQL APIs using Hasura. Involving JavaScript, Go, Python, and other languages stacks and their utilization of GraphQL as the communication medium between application and API/data services.
+*Tooling: GraphQL, PostgreSQL, Hasura, Terraform, JavaScript, C#, SQL, AWS, GCP, Azure, and related cloud architecture and their related services, along with numerous other technologies for integration and architectural guidance.*
 
-30% of time - Provided presentations, reports, analysis, and training on using GraphQL, architectural design of systems using GraphQL.
+- 30%: Developing and prototyping application usage around GraphQL APIs with Hasura using JavaScript, Go, Python, and other languages.
 
-20% of time - DevOps guidance, patterns and practices, around deployment, maintenance, and architecture use of Hasura and GraphQL API data services.
+- 30%: Delivering presentations, reports, analysis, and training on GraphQL and its architectural design.
 
-20% of time - Leading communications between customers, community, and internal product and engineering as needed. Organizing and leading efforts on video production of Hasura streaming shows (Hasura Coding & Hasura Data & APIs Shows).
+- 20%: Providing DevOps guidance on deployment, maintenance, and architecture of Hasura and GraphQL API data services.
 
-Blog Post @ Hasura are [here](https://hasura.io/blog/@adron).
-Videos @ Hasura with "A Hasura Bit" video shorts [here](https://youtube.com/playlist?list=PL4f75Y6Ce5sty7iWwLUq55aZNiA9u7vWc&si=dDiY61IqJgtdU0iW) as an example of a video series I put together from content, audio, video, animations, and more.
+- 20%: Leading communication between customers, community, and internal teams. Organizing and producing Hasura streaming shows and video content.
+
+Blog Posts @ Hasura: [here](https://hasura.io/blog/@adron).
+"A Hasura Bit" Video Shorts: [here](https://youtube.com/playlist?list=PL4f75Y6Ce5sty7iWwLUq55aZNiA9u7vWc&si=dDiY61IqJgtdU0iW).
 
 ### Principal Cloud Architect / Principal Developer Advocate
 DataStax - Full Time
 Seattle, WA - Remote
 
-*Principal Cloud Architect during December 2019 - August 2020*
+***Principal Cloud Architect during December 2019 - August 2020***
 
-90% Providing architectural plans (design), guidance (team leadership & coordination), and implementation (coding) of DataStax's Apache Cassandra DBaaS. My main area of focus has been on GraphQL API implementation, reference application guidance, technical content, and leading efforts around prospective customer and user outreach for these services.
+*Tooling: GraphQL and RESTful APIs, Java, Python, Goland, JavaScript, Terraform, K8s, AWS, GCP, Azure, and related cloud architecture and their related services, along with numerous other technologies for integration and architectural guidance.*
 
-10% Providing support around architectural design and implementation needs with K8s, Docker, Go, and other tooling used for DBaaS deployment and related customer/user tooling for the DBaaS and onsite Apache Cassandra/DataStax Enterprise implementations.
+90% focused on designing, guiding, and implementing DataStax's Apache Cassandra DBaaS, primarily on GraphQL API implementation, reference application guidance, technical content, and leading customer and user outreach efforts.
 
-*Principal Developer Advocate during June 2018 - December 2019*
+10% supporting architectural design and implementation with K8s, Docker, Go, and other tools for DBaaS deployment and related customer/user tooling for Apache Cassandra/DataStax Enterprise implementations.
 
-Worked with the team on a number of key advocacy projects for DataStax:
+***Principal Developer Advocate during June 2018 - December 2019***
 
-1. Build out, expansion of material, and presentation of reference application designs and guides for building large scale (often microservice based) enterprise applications using the killrvideo code base. Used the repos with Java, C#, Node.js, and Python for use in presentation, teaching, mentoring, and related outreach.
-2. Started, led, and organized various meetups in Seattle region around regular presentations, but also around teaching database and data-centric development topics around data modeling, architecture, and related design and coding.
-3. Regular technical content blogging, and other content creation, around open source projects, contributions to open source projects, and related events with the software programming/language communities.
- * https://compositecode.blog/
-4. Led efforts to start live-stream coding on Twitch. This led to me starting a YouTube & Twitch channel to share coding sessions, building and contributing to open source, and other involvement around various Apache Cassandra, data, data management, and related focuses. This expanded into a wide range of streaming around Go, C#, JavaScript/Node.js, Apache Cassandra, DataStax Enterprise, distributed system, Terraform, operational and development related (i.e. DevOps) projects and lots more besides just coding.
- * https://www.twitch.tv/thrashingcode
- * https://www.youtube.com/c/ThrashingCode
+Developed and expanded reference application designs and guides for building large-scale enterprise applications using the KillrVideo code base. Utilized Java, C#, Node.js, and Python repositories for presentations, teaching, mentoring, and outreach.
 
-Written Articles/Blog Entries: https://www.datastax.com/our-people/adron-hall
-Multi-cloud Challenges w/ Adron Hall & Patrick McFadin: https://www.datastax.com/resources/video/multi-cloud-challenges-adron-hall-and-patrick-mcfadin
-A fun guest appearance on The Open Source Show: https://learn.microsoft.com/en-us/shows/the-open-source-show/distributed-systems-demystified-cassandra-datastax-demo-and-faq
+Organized and led various meetups in the Seattle region, focusing on database and data-centric development topics such as data modeling, architecture, and coding.
+
+Created technical content, including blogs and contributions to open source projects, and engaged with the software programming community through regular content creation.
+   * Blog: [compositecode.blog](https://compositecode.blog/)
+
+Initiated live-stream coding on Twitch and YouTube, covering topics like Apache Cassandra, DataStax Enterprise, Go, C#, JavaScript/Node.js, distributed systems, Terraform, DevOps, and more.
+   * Twitch: [thrashingcode](https://www.twitch.tv/thrashingcode)
+   * YouTube: [ThrashingCode](https://www.youtube.com/c/ThrashingCode)
+
+**Additional Contributions:**
+- [Articles/Blog Entries](https://www.datastax.com/our-people/adron-hall)
+- [Multi-cloud Challenges Video](https://www.datastax.com/resources/video/multi-cloud-challenges-adron-hall-and-patrick-mcfadin)
+- [Guest Appearance on The Open Source Show](https://learn.microsoft.com/en-us/shows/the-open-source-show/distributed-systems-demystified-cassandra-datastax-demo-and-faq)
 
 ### Composite Thrashing Code - Consultancy/Contract
 
