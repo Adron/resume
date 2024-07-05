@@ -13,9 +13,9 @@ Redmond, WA - Remote
 
 Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
 
-Architecture, design, and prototyping of Data Fabric Platform ([Further details here](https://compositecode.blog/financial-services-data-fabric/)) buy/build technologies for modernization of APIs. This involves working across teams and customers in financial organizations to ensure design elements meet requirements of data consumers and management capabilities of the respective organization, while ensuring ROI is met and measured.
+Architecture, design, and prototyping of Data Fabric Platform ([More details](https://compositecode.blog/financial-services-data-fabric/)) buy/build technologies for modernization of APIs. This involves working across teams and customers in financial organizations to ensure design elements meet requirements of data consumers and management capabilities of the respective organization, while ensuring ROI is met and measured.
 
-Setting up groups within the organization around Communities of Practice. Specifically GraphQL Community of Practice and Java Spring Boot Community of Practice. ([Further description here](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
+Setting up groups within the organization around Communities of Practice. Specifically GraphQL Community of Practice and Java Spring Boot Community of Practice. ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
 
 Where necessary implementing vertical application stacks for reference and prototyping with horizontal infrastructure as code assets for scaling, resiliency, deployment, management, and ongoing iterative development of Java Spring Boot based APIs via containerized (Docker/K8s) with continuous deployment.
 
