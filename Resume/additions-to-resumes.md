@@ -8,3 +8,5 @@ Links to add to resumes:
 ](https://compositecode.blog/vertical-application-stacks-with-horizontal-infrastructure-as-code-a-journey-into-java-spring-boot-docker-k8s-and-continuous-deployment/)
 * [Logging, Tracking, and more with Spring Boot](https://compositecode.blog/logging-tracking-and-more-with-spring-boot/)
 * [Development Patterns for Long-Term Financial Applications](https://compositecode.blog/development-patterns-for-long-term-financial-applications/)
+
+* [DataStax AstraDB](https://compositecode.blog/project-datastax-astradb/)
