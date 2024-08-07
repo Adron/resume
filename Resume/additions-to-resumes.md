@@ -10,3 +10,5 @@ Links to add to resumes:
 * [Development Patterns for Long-Term Financial Applications](https://compositecode.blog/development-patterns-for-long-term-financial-applications/)
 
 * [DataStax AstraDB](https://compositecode.blog/project-datastax-astradb/)
+
+Add email address: adronhall@gmail.com
