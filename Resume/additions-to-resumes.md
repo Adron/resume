@@ -12,3 +12,7 @@ Links to add to resumes:
 * [DataStax AstraDB](https://compositecode.blog/project-datastax-astradb/)
 
 Add email address: adronhall@gmail.com
+
+Description for "Really Big Coffee Company"
+
+Joined the team to build out and lead the engineering team tasked to build out a QR Code scanning technology to close the order cycle gap. This involved implementing a scanner technology with Scandit's technology into an existing .NET web based Angular and .NET web based React application. Add elaboration upon completion and shipping of said feature capability.
