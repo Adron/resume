@@ -16,3 +16,5 @@ Add email address: adronhall@gmail.com
 Description for "Really Big Coffee Company"
 
 Joined the team to build out and lead the engineering team tasked to build out a QR Code scanning technology to close the order cycle gap. This involved implementing a scanner technology with Scandit's technology into an existing .NET web based Angular and .NET web based React application. Add elaboration upon completion and shipping of said feature capability.
+
+Make the mission/intro/description more concise while detailing wins, cost savings, money makers, team productivity improvements, and higher level work like that. Possibly break out different work and be sure to link the detailed descriptions of the different projects.
