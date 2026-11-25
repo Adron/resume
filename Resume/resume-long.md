@@ -11,12 +11,12 @@
 
 ## Professional Summary
 
-Principal-level engineer and technical product lead with 25+ years across cloud, API, data, and Gen AI platforms. Today I lead Gen AI and agentic delivery for clients at Composite Thrashing Code: owning triage and the backlog across Claude and OpenAI enterprise tools, and defining how "done" gets measured for LLM features. Before that I led order-fulfillment engineering at Starbucks, ran a Data Fabric modernization at PNC Bank that cut backend operating cost by millions annually, built product practice at Hasura and AWS, and architected an Apache Cassandra DBaaS at DataStax. I pair product and governance discipline with hands-on execution, backed by SRE and principal engineering work at Home Depot, DataStax, and AWS.
+Principal-level engineer and technical product lead with 25+ years across cloud, API, data, and Gen AI platforms. Today, as a self-employed principal software engineer, I lead cross-functional teams building agentic processes and controls for Gen AI tools (Claude, Cursor, Copilot, Codex) and set up best practices for AI/LLM software factories and the SDLC. Before that I led order-fulfillment engineering at Starbucks, ran a Data Fabric modernization at PNC Bank that cut backend operating cost by millions annually, built product practice at Hasura and AWS, and architected an Apache Cassandra DBaaS at DataStax. I pair product and governance discipline with hands-on execution, backed by SRE and principal engineering work at Home Depot, DataStax, and AWS.
 
 ## Core Competencies
 
 * **Technical product ownership:** Intake, triage, prioritization, and escalation; owning backlogs from features and epics down to acceptance criteria, and building that practice where none exists.
-* **Gen AI & agentic delivery:** Claude Enterprise, Claude Console, OpenAI API, and OpenAI Codex operations; evaluation harnesses, grounding, tool-call correctness, and human-in-the-loop review gates for LLM features.
+* **Gen AI & agentic delivery:** Agentic processes and controls for Claude, Cursor, Copilot, and Codex across teams and organizations; AI/LLM software factory and SDLC best practices for speed, accuracy, and output quality.
 * **API & data platform modernization:** API-first Data Fabric design, REST and GraphQL APIs, event-driven and streaming systems, and legacy-to-modern migrations with a measured ROI case.
 * **Platform engineering & SRE:** Cloud operations on AWS, Azure, and GCP; Kubernetes, Terraform, CI/CD, immutable infrastructure, and observability.
 * **Team building & leadership:** Hiring and building teams, founding Communities of Practice, mentoring, and aligning teams to measurable outcomes.
@@ -24,18 +24,15 @@ Principal-level engineer and technical product lead with 25+ years across cloud,
 
 ## Experience
 
-### Composite Thrashing Code (CTC) — Principal Consultant & Technical Product Lead, Gen AI & Agentic Software Factory
-Mar 2026 – Present | Redmond, WA — Remote
+### CTC — Principal Software Engineer
+Mar 2026 – Present | Seattle, WA — Remote
 
-*Clients include Works Real Estate, Stellarus, and TEKsystems, among others.*
+* Leading cross-functional teams in developing agentic processes and controls for Generative AI systems (Claude, Cursor, Copilot, Codex, etc.) used across team and organizational structures.
+* Setting up best practices for AI/LLM Software Factories and the SDLC, streamlining effort to improve speed, accuracy, and efficiency, and managing the quality of process output.
+* Scoped and managed projects to align with core business needs and product focus, from individual features to full strategic capabilities and entire products, ensuring effective resource allocation in this new Gen AI world.
+* Collaborated closely with stakeholders to drive innovation and maintain focus on business objectives.
 
-* Triage point and backlog owner for inbound feature requests, issues, and released changes across Claude Enterprise, Claude Console, OpenAI API, and OpenAI Codex for client engagements, deciding what gets worked next and escalating blockers directly to stakeholders.
-* Track what Anthropic and OpenAI ship (new models, feature releases, deprecations, and breaking changes) and get ahead of the impact on client delivery before it lands on the team, recommending process improvements as gaps surface.
-* Own day-to-day operational work across the four platforms: access and license provisioning, configuration, troubleshooting, and release testing across non-prod and prod environments.
-* Define success criteria and evaluation harnesses for LLM and agentic features (grounding, tool-call correctness, human-in-the-loop review gates) so "done" is testable instead of anecdotal.
-* Facilitate requirements sessions with business stakeholders, architects, and engineering leads to scope Gen AI and agent-assisted workflows, then prioritize the backlog against measurable outcomes: cycle time, defect escape rate, and throughput per team.
-
-*Tooling: Claude Enterprise, Claude Console, OpenAI API, OpenAI Codex, LLM-assisted SDLC, agent orchestration, retrieval and grounding patterns, evaluation harnesses, and many others.*
+*Tooling: .NET, Java + Spring Boot, iOS, Web (React/JavaScript, Node.js, and related server tech), Python (generally for AI and pipelines), Go (pipelines, infrastructure, distributed systems), a minor bit of Rust, and a wide range of databases: PostgreSQL, SQL Server, MySQL, Apache Cassandra, DynamoDB, Supabase (PostgreSQL w/ APIs), and others.*
 
 ### Starbucks — Principal Engineering Lead / Technical Product Lead, Order Fulfillment
 2024 – Mar 2026 | Seattle, WA
@@ -231,7 +228,7 @@ Oct 1999 – Aug 2001 | Stennis Space Center, MS
 
 **Languages & data:** Go, Java, Python, JavaScript/TypeScript, C#, SQL; PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, Apache Cassandra, Snowflake, Amazon Athena.
 
-**Gen AI & agentic:** Claude Enterprise, Claude Console, OpenAI API, and OpenAI Codex licensing, configuration, and troubleshooting across non-prod and prod; LLM-assisted SDLC, agent orchestration, retrieval and grounding patterns, evaluation harnesses, human-in-the-loop review gates.
+**Gen AI & agentic:** Claude, Cursor, Copilot, and Codex; AI/LLM software factories, LLM-assisted SDLC, agentic processes and controls, agent orchestration, evaluation and quality gates.
 
 ## Education & Certifications
 
