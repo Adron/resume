@@ -1,0 +1,138 @@
+# Projects shown on the portfolio home page, grouped by section.
+# Each item: name, summary, year (optional), tags (optional), and links (label + url).
+
+- section: Client & Professional Work
+  intro: Write-ups of engagements and platform work, from financial services API modernization to database-as-a-service.
+  items:
+    - name: SMS Spam Detection Service
+      summary: Java Spring Boot service filtering SMS/MMS for spam with Proofpoint, multi-part message reassembly, and UDF validation, deployed on AWS with Terraform and GitHub Actions.
+      tags: [Java, Spring Boot, AWS]
+      links:
+        - { label: Write-up, url: "https://compositecode.blog/spam-detection-project/" }
+    - name: Financial Services Data Fabric
+      summary: Architecture and buy/build prototyping for an API-first data fabric that modernizes fragmented financial systems with measured ROI.
+      tags: [Architecture, GraphQL, Data]
+      links:
+        - { label: Write-up, url: "https://compositecode.blog/financial-services-data-fabric/" }
+    - name: Vertical Application Stacks
+      summary: Reference Java Spring Boot stacks on Docker/K8s with horizontal infrastructure as code and continuous deployment, plus the observability and long-term maintenance patterns behind them.
+      tags: [Spring Boot, Kubernetes, IaC]
+      links:
+        - { label: Write-up, url: "https://compositecode.blog/vertical-application-stacks-with-horizontal-infrastructure-as-code-a-journey-into-java-spring-boot-docker-k8s-and-continuous-deployment/" }
+        - { label: Logging & tracing, url: "https://compositecode.blog/logging-tracking-and-more-with-spring-boot/" }
+        - { label: Financial app patterns, url: "https://compositecode.blog/development-patterns-for-long-term-financial-applications/" }
+    - name: Communities of Practice
+      summary: Founded GraphQL and Java Spring Boot Communities of Practice inside a financial organization, growing from a dozen to 80+ members.
+      tags: [Leadership]
+      links:
+        - { label: Write-up, url: "https://compositecode.blog/communities-of-practice-transforming-financial-software-development/" }
+    - name: DataStax AstraDB
+      summary: Architecture and implementation of the Apache Cassandra DBaaS APIs across AWS, Azure, and GCP, deployed with Kubernetes and Terraform.
+      tags: [Cassandra, DBaaS, Multi-cloud]
+      links:
+        - { label: Write-up, url: "https://compositecode.blog/project-datastax-astradb/" }
+    - name: Hasura Instant GraphQL
+      summary: Product lead for Instant GraphQL on Amazon Athena and on Snowflake, from customer discovery through launch.
+      tags: [Product, GraphQL]
+      links:
+        - { label: Athena, url: "https://hasura.io/blog/announcing-amazon-athena-integration" }
+        - { label: Snowflake, url: "https://hasura.io/blog/introducing-instant-graphql-apis-for-snowflake-cloud-data-platform" }
+    - name: Hasura Developer Content
+      summary: Articles, the "A Hasura Bit" video shorts, and streaming shows on GraphQL, Hasura, and data APIs.
+      tags: [Advocacy, Video]
+      links:
+        - { label: Articles, url: "https://compositecode.blog/projects/my-articles-on-the-hasura-blog/" }
+        - { label: Short Bits, url: "https://compositecode.blog/projects/hasura-short-bits/" }
+    - name: Connecting GraphQL to AWS Data Sources
+      summary: AWS Mobile blog guide to wiring AppSync GraphQL APIs to AWS data sources.
+      tags: [AWS, GraphQL]
+      links:
+        - { label: Article, url: "https://aws.amazon.com/blogs/mobile/how-to-connect-your-graphql-api-to-aws-data-sources/" }
+
+- section: Building Now
+  intro: Products and platforms I'm currently designing and shipping under Composite Code.
+  items:
+    - name: Interlined List
+      year: "2026"
+      summary: A time-series micro-blogging platform with structured lists and long-form documents woven into the stream.
+      tags: [Product, Web]
+      links:
+        - { label: interlinedlist.com, url: "https://interlinedlist.com" }
+    - name: Substratal Apps
+      year: "2026"
+      summary: An API-first platform for accounts, roles, per-app access, tenancy, settings, and storage, so app builders on iOS, macOS, Windows, Linux, and the web can skip writing user management.
+      tags: [Platform, API, MCP]
+      links:
+        - { label: substratalapps.com, url: "https://substratalapps.com" }
+        - { label: API docs, url: "https://docs.substratalapps.com" }
+    - name: "Herding Agents: Herdr"
+      year: "2026"
+      summary: Talk and article material on running several AI coding agents at once (Claude Code, Codex, Cursor) with Herdr, and prompting them to stay effective and accurate.
+      tags: [AI Agents, Talk]
+      links:
+        - { label: Code & articles, url: "https://github.com/Adron/herdr" }
+    - name: Data Diluvium
+      year: "2026"
+      summary: A web application for schema transformation and test data generation.
+      tags: [Data, Web]
+      links:
+        - { label: Live app, url: "https://datadiluvium.vercel.app" }
+        - { label: Code, url: "https://github.com/Adron/datadiluvium" }
+
+- section: Open Source & Code
+  intro: Selected public repositories. The rest live on GitHub.
+  items:
+    - name: Cobra CLI Samples
+      summary: Sample Go CLI applications built with the Cobra framework.
+      tags: [Go]
+      links:
+        - { label: Code, url: "https://github.com/Adron/cobra-cli-samples" }
+    - name: Go Concurrency Model Patterns
+      summary: Pipeline, fan-out/fan-in, and worker pool patterns in Go with goroutines and channels.
+      tags: [Go]
+      links:
+        - { label: Code, url: "https://github.com/Adron/go-fluency-concurrency-model-patterns" }
+    - name: Terraform Course Code
+      summary: Companion code for my LinkedIn Learning Terraform coursework, organized by branch per module.
+      tags: [Terraform, Teaching]
+      links:
+        - { label: Code, url: "https://github.com/Adron/terraform-lil" }
+    - name: Hasura Quick Start
+      summary: The "N+1" Hasura getting-started repo, with schema, migrations, next steps, and infrastructure code.
+      tags: [GraphQL, Hasura]
+      links:
+        - { label: Code, url: "https://github.com/Adron/hasura-quick-start" }
+    - name: Magic QR Code Scanner
+      summary: A Next.js QR code scanner experiment.
+      tags: [Next.js]
+      links:
+        - { label: Live app, url: "https://magic-qr-code-scanner.vercel.app" }
+        - { label: Code, url: "https://github.com/Adron/magic-qr-code-scanner" }
+    - name: AWS SQS Worker
+      summary: Worker process example using AWS worker instances with SQS as the queue.
+      tags: [AWS, Node.js]
+      links:
+        - { label: Code, url: "https://github.com/Adron/testing-aws-sqs-worker" }
+
+- section: Writing, Teaching & Speaking
+  intro: Where I write, stream, teach, and speak.
+  items:
+    - name: Composite Code Blog
+      summary: Long-running blog on software engineering, architecture, data, infrastructure, and leadership.
+      links:
+        - { label: compositecode.blog, url: "https://compositecode.blog/" }
+    - name: Videos & Streams
+      summary: Coding sessions, talks, and shorts on YouTube, plus live-coding streams on Twitch.
+      links:
+        - { label: YouTube, url: "https://www.youtube.com/@AdronHall" }
+        - { label: Twitch, url: "https://www.twitch.tv/thrashingcode" }
+    - name: Speaking & Events
+      summary: Conference talks, meetups, and events, including the O'Reilly Software Architecture Conference in London.
+      links:
+        - { label: Speaking, url: "https://compositecode.blog/speaking/" }
+        - { label: Events, url: "https://compositecode.blog/confs-meetups-events/" }
+        - { label: Developer advocacy, url: "https://compositecode.blog/some-of-my-developer-advocacy/" }
+    - name: Pluralsight Courses
+      summary: Docker Fundamentals and Riak Fundamentals (now retired).
+      links:
+        - { label: Author page, url: "https://pluralsight.com/authors/adron-hall" }

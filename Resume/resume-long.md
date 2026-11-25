@@ -8,39 +8,61 @@
 
 ## Experience
 
+### Principal Consultant & Technical Product Lead, Gen AI & Agentic Software Factory
+Composite Thrashing Code (CTC) - Owner/Consultant
+March 2026 - Present | Redmond, WA - Remote
+
+Clients Include: Works Real Estate, Stellarus, TEKsystems, and others.
+
+* Triage point and backlog owner for inbound feature requests, issues, and released changes across Claude Enterprise, Claude Console, OpenAI API, and OpenAI Codex for client engagements, deciding what gets worked next and escalating blockers directly to stakeholders.
+* Track what Anthropic and OpenAI ship (new models, feature releases, deprecations, and breaking changes) and get ahead of the impact on client delivery before it lands on the team, recommending process improvements as gaps surface.
+* Own day-to-day operational work across the four platforms: access and license provisioning, configuration, troubleshooting, and release testing across non-prod and prod environments.
+* Define success criteria and evaluation harnesses for LLM and agentic features (grounding, tool-call correctness, human-in-the-loop review gates) so "done" is testable instead of anecdotal.
+* Facilitate requirements sessions with business stakeholders, architects, and engineering leads to scope Gen AI and agent-assisted workflows, then prioritize the backlog against measurable outcomes: cycle time, defect escape rate, and throughput per team.
+
+*Tooling: Claude Enterprise, Claude Console, OpenAI API, OpenAI Codex, LLM-assisted SDLC, agent orchestration, retrieval and grounding patterns, evaluation harnesses, and many others.*
+
+### Principal Engineering Lead / Technical Product Lead, Order Fulfillment
+Starbucks
+2024 - March 2026 | Seattle, WA
+
+* Joined to build out and lead the engineering team tasked with delivering QR Code scanning technology to close the order cycle gap, leading product and technical direction for two order-fulfillment initiatives in a high-volume retail environment.
+* Defined and delivered a QR-based drink tracking capability that replaced estimated wait times with real-time fulfillment state, implementing [Scandit](https://www.scandit.com/) scanning technology into existing .NET-backed Angular and .NET-backed React web applications. Contributed to a 20-35% reduction in customer wait time and a 5-8% throughput improvement.
+* Worked directly with store operations and business owners to convert operational pain into prioritized, sequenced product requirements, with acceptance and success criteria tied to operational KPIs (order accuracy, fulfillment latency, throughput per store) used to validate releases before rollout.
+* Established a reusable computer vision platform supporting POS timing, queue detection, and drive-thru analytics, sequenced as a platform investment later features build on rather than a single-use feature.
+* Managed dependencies and rollout sequencing across store systems, mobile, and backend teams, aligning engineering execution to a phased store rollout strategy and its KPI gates.
+
+*Tooling: .NET, Angular, React, Scandit, computer vision, mobile and store systems integration, and many others.*
+
 ### Principal Engineer (Architect, Consultant, Trainer)
-CTC - Owner/Consultant
-February 2023 - Present | Redmond, WA - Remote
+Composite Thrashing Code (CTC) - Owner/Consultant
+February 2023 - 2024 | Redmond, WA - Remote
 
-Clients Include: [Starbucks](https://www.starbucks.com/), [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
+Clients Include: [PNC Bank](https://www.pnc.com/), [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
 
-I build and lead engineering teams for enterprise clients in retail, telecommunications, and financial services: shipping customer-facing capabilities, modernizing APIs and data platforms, and putting in place the reference stacks, infrastructure as code, and Communities of Practice that keep teams productive after a project ships.
+I built and led engineering teams for enterprise clients in telecommunications and financial services: modernizing APIs and data platforms, and putting in place the reference stacks, infrastructure as code, and Communities of Practice that keep teams productive after a project ships.
 
-**Starbucks: QR Code Scanning for Order Fulfillment**
+**PNC Bank: Data Fabric & API Modernization**
 
-* Joined to build out and lead the engineering team tasked with delivering QR Code scanning technology to close the order cycle gap.
-* Led implementation of [Scandit](https://www.scandit.com/) scanning technology into existing .NET-backed Angular and .NET-backed React web applications.
-
-**Telecommunications: SMS Spam Mitigation**
-
-* Spam-mitigation API Service, written in Java Spring Boot, providing out of band processing to filter SMS messages for spam, validate UDF/Data Types, and encode & decode message formats. Deployed on AWS w/ Terraform and GitHub Actions, with services for testing, environment management, and monitoring/observability. ([More details](https://compositecode.blog/spam-detection-project/))
-
-**Financial Services: API & Data Modernization**
-
-* Architecture, design, and prototyping of a Data Fabric Platform ([More details](https://compositecode.blog/financial-services-data-fabric/)) evaluating buy/build technologies for API modernization. Worked across teams and customers in financial organizations to meet the requirements of data consumers and the organization's management capabilities, while ensuring ROI is met and measured.
+* Led a large-scale platform modernization program moving fragmented enterprise systems onto a unified, API-first Data Fabric ([More details](https://compositecode.blog/financial-services-data-fabric/)), owning the roadmap, the buy-vs-build evaluation, and the measured ROI case.
+* Reduced backend operating cost by millions annually through system consolidation and architectural standardization, the funding argument that kept modernization prioritized.
+* Designed integration patterns for a multi-million-dollar white-label credit card platform, sequencing onboarding milestones against partner commitments and long-term scalability needs.
 * Implemented vertical application stacks for reference and prototyping, with horizontal infrastructure as code assets for scaling, resiliency, deployment, management, and iterative development of containerized (Docker/K8s) Java Spring Boot APIs with continuous deployment. ([More details](https://compositecode.blog/vertical-application-stacks-with-horizontal-infrastructure-as-code-a-journey-into-java-spring-boot-docker-k8s-and-continuous-deployment/))
 * Established logging, tracing, and observability patterns for Spring Boot services. ([More details](https://compositecode.blog/logging-tracking-and-more-with-spring-boot/))
 * Defined development patterns for building and maintaining long-lived financial applications. ([More details](https://compositecode.blog/development-patterns-for-long-term-financial-applications/))
 * Hired and built teams for multiple API modernization projects (moving from legacy tech to RESTful & GraphQL APIs, custom resolvers, etc), leading scoping, statements of work, desired user experience outcomes, initial product planning, and aligning teams with the right hard and soft skills to the mission.
 * Planned, organized, and mentored across a wide array of data sources including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, and Apache Cassandra.
 
+**Telecommunications: SMS Spam Mitigation**
+
+* Spam-mitigation API Service, written in Java Spring Boot, providing out of band processing to filter SMS messages for spam, validate UDF/Data Types, and encode & decode message formats. Deployed on AWS w/ Terraform and GitHub Actions, with services for testing, environment management, and monitoring/observability. ([More details](https://compositecode.blog/spam-detection-project/))
+
 **Engineering Practice & Team Productivity**
 
-* Set up GraphQL and Java Spring Boot Communities of Practice across the organization. ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
-* Grew the GraphQL Community of Practice from a dozen to over 60 people in a couple of weeks, on pace to exceed 80 members by the fourth month.
+* Founded GraphQL and Java Spring Boot Communities of Practice ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/)), growing from roughly a dozen to 80+ members in four months and keeping standards consistent across dependent teams.
 * Created internal corporate training on deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
 
-*Tooling: Java, Spring Boot, .NET, Angular, React, Scandit, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, Docker, K8s, AWS, Terraform, GitHub Actions, and many others.*
+*Tooling: Java, Spring Boot, GraphQL, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, Docker, K8s, AWS, Terraform, GitHub Actions, and many others.*
 
 ### Principal Product Manager
 Hasura - Full Time

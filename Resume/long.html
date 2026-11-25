@@ -1,0 +1,10 @@
+---
+layout: resume
+title: Adron Hall | Resume
+permalink: /resumes/long/
+docx: /Resume/resume-long.docx
+pdf: /Resume/resume-long.pdf
+other_version: { label: Concise version, url: /resumes/short/ }
+---
+{% capture resume %}{% include_relative resume-long.md %}{% endcapture %}
+{{ resume | markdownify }}

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+    <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    <div class="site">
+      <div class="topbar">
+        <button class="button secondary theme-toggle" type="button" data-theme-toggle>Theme</button>
+      </div>
+      <header class="hero">
+        <h1>{{ site.author_name }}</h1>
+        <div class="headline">{{ page.headline }}</div>
+        <p class="summary">{{ page.summary }}</p>
+        <nav class="contact" aria-label="Profiles">
+          {% for link in page.profiles %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
+        </nav>
+      </header>
+
+      <section class="resume-card" aria-labelledby="resume-heading">
+        <div>
+          <h2 id="resume-heading">Resume</h2>
+          <p>The full resume covers 25+ years of roles and projects. The concise version is the quick read.</p>
+        </div>
+        <div class="actions">
+          <a class="button" href="{{ '/resumes/long/' | relative_url }}">Full resume</a>
+          <a class="button secondary" href="{{ '/resumes/short/' | relative_url }}">Concise resume</a>
+        </div>
+        <div class="downloads">
+          Word:
+          <a href="{{ '/Resume/resume-long.docx' | relative_url }}">full</a> &middot;
+          <a href="{{ '/Resume/resume-short.docx' | relative_url }}">concise</a>
+          &nbsp;&bull;&nbsp; PDF:
+          <a href="{{ '/Resume/resume-long.pdf' | relative_url }}">full</a> &middot;
+          <a href="{{ '/Resume/resume-short.pdf' | relative_url }}">concise</a>
+        </div>
+      </section>
+
+      <section class="projects" aria-labelledby="projects-heading">
+        <h2 id="projects-heading">Projects</h2>
+        {% for group in site.data.projects %}
+        <div class="project-group">
+          <h3>{{ group.section }}</h3>
+          {% if group.intro %}<p class="intro">{{ group.intro }}</p>{% endif %}
+          <ul class="cards">
+            {% for item in group.items %}
+            <li class="card">
+              <div class="card-title">
+                <h4>{{ item.name }}</h4>
+                {% if item.year %}<span class="year">{{ item.year }}</span>{% endif %}
+              </div>
+              <p>{{ item.summary }}</p>
+              {% if item.tags %}
+              <ul class="tags">{% for tag in item.tags %}<li>{{ tag }}</li>{% endfor %}</ul>
+              {% endif %}
+              <div class="links">
+                {% for link in item.links %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </section>
+
+      <footer class="site-footer">
+        <span>&copy; {{ site.time | date: '%Y' }} {{ site.author_name }}</span>
+        {% for link in page.profiles %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
+      </footer>
+    </div>
+  </body>
+</html>

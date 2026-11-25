@@ -4,14 +4,13 @@ title: projectz
 pagetype: projectz
 ---
 
-Testing
 
-{% if paginator.total_posts == 0 %}
+{% if site.posts.size == 0 %}
     <p>No posts right now.</p>
 {% else %}
 <ul class="projectz-list">
     <i>Scroll to the bottom of the page to find categories to search by.</i>
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
         <li>
             <a class="projectz-heading" href="{{ post.url | relative_url }}">{{ post.title }}</a><span class="date">{{ post.date | date_to_string }}</span>
             <div class="excerpt">{{ post.excerpt }}</div>
@@ -27,21 +26,4 @@ Testing
     {% endfor %}
     </ul>
 </div>
-{% endif %}
-
-<hr>
-{% if paginator.total_pages > 1 %}
-<ul>
-
-    {% if paginator.previous_page %}
-        <li>
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-        </li>
-    {% endif %}
-    {% if paginator.next_page %}
-        <li>
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-        </li>
-    {% endif %}
-</ul>
 {% endif %}

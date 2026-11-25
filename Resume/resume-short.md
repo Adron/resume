@@ -8,19 +8,43 @@
 
 ## Experience
 
+### Principal Consultant & Technical Product Lead, Gen AI & Agentic Software Factory
+Composite Thrashing Code (CTC) - Owner/Consultant
+March 2026 - Present | Redmond, WA - Remote
+
+*Tooling: Claude Enterprise, Claude Console, OpenAI API, OpenAI Codex, LLM-assisted SDLC, agent orchestration, evaluation harnesses, and many others.*
+
+Clients include Works Real Estate, Stellarus, and TEKsystems.
+
+**Gen AI Platform Ownership:** Triage point and backlog owner for feature requests, issues, and released changes across Claude Enterprise, Claude Console, OpenAI API, and OpenAI Codex, tracking model releases, deprecations, and breaking changes ahead of their impact on client delivery.
+
+**Platform Operations:** Access and license provisioning, configuration, troubleshooting, and release testing across non-prod and prod.
+
+**Agentic Delivery:** Define success criteria and evaluation harnesses for LLM and agentic features, and prioritize the backlog against cycle time, defect escape rate, and throughput per team.
+
+### Principal Engineering Lead / Technical Product Lead, Order Fulfillment
+Starbucks
+2024 - March 2026 | Seattle, WA
+
+*Tooling: .NET, Angular, React, Scandit, computer vision, and many others.*
+
+**QR Code Drink Tracking:** Built out and led the engineering team delivering QR-based drink tracking to close the order cycle gap, integrating Scandit's scanning technology into existing .NET-backed Angular and React web applications. Replaced estimated wait times with real-time fulfillment state, contributing to a 20-35% reduction in customer wait time and a 5-8% throughput improvement.
+
+**Computer Vision Platform:** Established a reusable platform supporting POS timing, queue detection, and drive-thru analytics.
+
+**Rollout & KPIs:** Sequenced a phased store rollout across store systems, mobile, and backend teams, validating releases against order accuracy, fulfillment latency, and throughput per store.
+
 ### Principal Engineer (Architect, Consultant, Trainer)
-CTC - Owner/Consultant
-February 2023 - Present | Redmond, WA - Remote
+Composite Thrashing Code (CTC) - Owner/Consultant
+February 2023 - 2024 | Redmond, WA - Remote
 
-*Tooling: Java, Spring Boot, .NET, Angular, React, Scandit, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, SQL, RESTful & GraphQL APIs, AWS, Terraform, Cloudformation, and many others.*
+*Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, SQL, RESTful & GraphQL APIs, AWS, Terraform, Cloudformation, and many others.*
 
-Clients include Starbucks, Tata Communications, Kaleyra, PNC Bank, Vaco, and Incedo. I build and lead engineering teams that ship customer-facing capabilities and modernize APIs and data platforms.
-
-**Starbucks QR Code Scanning:** Built out and led the engineering team delivering QR Code scanning to close the order cycle gap, integrating Scandit's scanning technology into existing .NET-backed Angular and React web applications.
+Clients include PNC Bank, Tata Communications, Kaleyra, Vaco, and Incedo. I built and led engineering teams that modernized APIs and data platforms.
 
 **[Spam Detection Project](https://compositecode.blog/spam-detection-project/):** A Spam-mitigation API service in Java Spring Boot, filtering SMS messages for spam, validating UDF/Data Types, and handling message format encoding/decoding. Deployed and managed on AWS using Terraform and GitHub Actions, with services for testing, environment management, and monitoring.
 
-**[Data Fabric Platform](https://compositecode.blog/financial-services-data-fabric/):** Designed and prototyped buy/build technologies for API modernization, working with financial organizations to meet data consumer needs and ensure ROI.
+**[Data Fabric Platform](https://compositecode.blog/financial-services-data-fabric/):** Led PNC's move from fragmented systems to an API-first Data Fabric, owning the roadmap, buy-vs-build evaluation, and ROI case. Consolidation and standardization cut backend operating cost by millions annually.
 
 **[Vertical Application Stacks](https://compositecode.blog/vertical-application-stacks-with-horizontal-infrastructure-as-code-a-journey-into-java-spring-boot-docker-k8s-and-continuous-deployment/):** Implemented reference and prototyping stacks with horizontal infrastructure as code assets for scalable, resilient, and continuously deployed Java Spring Boot APIs on Docker/K8s, with [logging, tracing, and observability patterns](https://compositecode.blog/logging-tracking-and-more-with-spring-boot/) built in.
 
@@ -28,7 +52,7 @@ Clients include Starbucks, Tata Communications, Kaleyra, PNC Bank, Vaco, and Inc
 
 **Team Building & Mentorship:** Hired and built teams for API modernization projects, leading scoping, product planning, and aligning teams with project missions. Mentored across Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, and Apache Cassandra.
 
-**[Communities of Practice](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/):** Established GraphQL and Java Spring Boot communities, growing the GraphQL community from a dozen to over 60 members in a few weeks, on pace to exceed 80 by the fourth month.
+**[Communities of Practice](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/):** Founded GraphQL and Java Spring Boot communities that grew from roughly a dozen to 80+ members in four months.
 
 **Corporate Training:** Developed training focused on deployment solutions and plans using Terraform for Infrastructure as Code based on immutable infrastructure concepts.
 

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+    <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+    {% seo %}
+  </head>
+  <body>
+    <nav class="toolbar" aria-label="Resume">
+      <a class="back" href="{{ '/' | relative_url }}">&larr; Portfolio</a>
+      <div class="actions">
+        <button class="button secondary theme-toggle" type="button" data-theme-toggle>Theme</button>
+        {% if page.other_version %}<a class="button secondary" href="{{ page.other_version.url | relative_url }}">{{ page.other_version.label }}</a>{% endif %}
+        <a class="button secondary" href="{{ page.docx | relative_url }}">Word</a>
+        <a class="button secondary" href="{{ page.pdf | relative_url }}">PDF</a>
+        <button class="button" type="button" onclick="window.print()">Print</button>
+      </div>
+    </nav>
+    <main class="resume">
+      {{ content }}
+    </main>
+    <script src="{{ '/assets/js/resume.js' | relative_url }}"></script>
+  </body>
+</html>
