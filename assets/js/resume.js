@@ -29,8 +29,16 @@
     node.parentNode.replaceChild(frag, node);
   });
 
+  // A bold line right under the name is the headline.
+  var afterName = resume.querySelector('h1 + p');
+  if (afterName && afterName.children.length === 1 && afterName.firstElementChild.tagName === 'STRONG' &&
+      afterName.textContent.trim() === afterName.firstElementChild.textContent.trim()) {
+    afterName.className = 'headline';
+    afterName.textContent = afterName.textContent.trim();
+  }
+
   // The page toolbar already offers the Word download.
-  resume.querySelectorAll('h1 + ul a[href$=".docx"]').forEach(function (a) {
+  resume.querySelectorAll('h1 + ul a[href$=".docx"], .headline + ul a[href$=".docx"]').forEach(function (a) {
     a.closest('li').remove();
   });
 
@@ -74,11 +82,12 @@
     }
   });
 
-  // Paragraphs that are a single italic line are either tooling lists or sub-role headings.
+  // Paragraphs that are a single italic line are client lists, tooling lists, or sub-role headings.
   resume.querySelectorAll('p').forEach(function (p) {
     var only = p.children.length === 1 && p.firstElementChild;
     if (!only || !/^(EM|STRONG)$/.test(only.tagName)) return;
     if (p.textContent.trim() !== only.textContent.trim()) return;
-    p.classList.add(/^Tooling/i.test(p.textContent.trim()) ? 'tooling' : 'subrole');
+    var text = p.textContent.trim();
+    p.classList.add(/^Tooling/i.test(text) ? 'tooling' : /^(Clients|Other CTC clients)/i.test(text) ? 'clients' : 'subrole');
   });
 })();

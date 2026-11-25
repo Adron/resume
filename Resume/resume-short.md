@@ -1,211 +1,98 @@
 # Adron Hall
 
+**Principal Engineer & Technical Product Lead \| Gen AI & Agentic Delivery \| API, Data & Cloud Platforms**
+
 * [Word Version](https://github.com/Adron/resume/raw/main/Resume/resume-short.docx)
-* Redmond, WA (Seattle, WA Metro)
-* Email: adronhall@gmail.com
-* Blog: https://compositecode.blog/ - [Contact me](https://compositecode.blog/contact/)
-* LinkedIn: https://www.linkedin.com/in/adron/
+* Redmond, WA (Seattle Metro)
+* [adronhall@gmail.com](mailto:adronhall@gmail.com)
+* [linkedin.com/in/adron](https://www.linkedin.com/in/adron/)
+* [compositecode.blog](https://compositecode.blog/)
+* [adron.me](https://adron.me/)
+
+## Professional Summary
+
+Principal-level engineer and technical product lead with 25+ years across cloud, API, data, and Gen AI platforms. Today I lead Gen AI and agentic delivery for clients at Composite Thrashing Code: owning triage and the backlog across Claude and OpenAI enterprise tools, and defining how "done" gets measured for LLM features. Before that I led order-fulfillment engineering at Starbucks, ran a Data Fabric modernization at PNC Bank that cut backend operating cost by millions annually, built product practice at Hasura and AWS, and architected an Apache Cassandra DBaaS at DataStax.
+
+## Core Competencies
+
+* **Technical product ownership:** Intake, triage, prioritization, and escalation; owning backlogs from features and epics down to acceptance criteria, and building that practice where none exists.
+* **Gen AI & agentic delivery:** Claude and OpenAI enterprise platform operations; evaluation harnesses, grounding, tool-call correctness, and human-in-the-loop review gates for LLM features.
+* **API & data platform modernization:** API-first Data Fabric design, REST and GraphQL APIs, event-driven systems, and legacy-to-modern migrations with a measured ROI case.
+* **Team building & leadership:** Hiring and building teams, founding Communities of Practice, and aligning teams to measurable outcomes, backed by SRE and principal engineering depth.
 
 ## Experience
 
-### Principal Consultant & Technical Product Lead, Gen AI & Agentic Software Factory
-Composite Thrashing Code (CTC) - Owner/Consultant
-March 2026 - Present | Redmond, WA - Remote
+### Composite Thrashing Code (CTC) — Principal Consultant & Technical Product Lead, Gen AI & Agentic Software Factory
+Mar 2026 – Present | Redmond, WA — Remote
 
-*Tooling: Claude Enterprise, Claude Console, OpenAI API, OpenAI Codex, LLM-assisted SDLC, agent orchestration, evaluation harnesses, and many others.*
+*Clients include Works Real Estate, Stellarus, and TEKsystems, among others.*
 
-Clients include Works Real Estate, Stellarus, and TEKsystems.
+* Triage point and backlog owner for feature requests, issues, and released changes across Claude Enterprise, Claude Console, OpenAI API, and OpenAI Codex, escalating blockers directly to stakeholders.
+* Track Anthropic and OpenAI releases (models, deprecations, breaking changes) and get ahead of their impact on client delivery.
+* Own access and license provisioning, configuration, troubleshooting, and release testing across non-prod and prod.
+* Define success criteria and evaluation harnesses for LLM and agentic features so "done" is testable, and prioritize against cycle time, defect escape rate, and throughput per team.
 
-**Gen AI Platform Ownership:** Triage point and backlog owner for feature requests, issues, and released changes across Claude Enterprise, Claude Console, OpenAI API, and OpenAI Codex, tracking model releases, deprecations, and breaking changes ahead of their impact on client delivery.
+### Starbucks — Principal Engineering Lead / Technical Product Lead, Order Fulfillment
+2024 – Mar 2026 | Seattle, WA
 
-**Platform Operations:** Access and license provisioning, configuration, troubleshooting, and release testing across non-prod and prod.
+* Built and led the engineering team delivering QR-based drink tracking, integrating [Scandit](https://www.scandit.com/) scanning into existing .NET-backed Angular and React applications to replace estimated wait times with real-time fulfillment state; contributed to a 20–35% reduction in customer wait time and a 5–8% throughput improvement.
+* Established a reusable computer vision platform for POS timing, queue detection, and drive-thru analytics.
+* Sequenced a phased store rollout across store systems, mobile, and backend teams, validating releases against order accuracy, fulfillment latency, and throughput per store.
 
-**Agentic Delivery:** Define success criteria and evaluation harnesses for LLM and agentic features, and prioritize the backlog against cycle time, defect escape rate, and throughput per team.
+### PNC Bank (via CTC) — Principal Engineer & Product Lead, Data Fabric Modernization
+Feb 2023 – 2024 | Redmond, WA — Remote
 
-### Principal Engineering Lead / Technical Product Lead, Order Fulfillment
-Starbucks
-2024 - March 2026 | Seattle, WA
+*Other CTC clients in this period: Tata Communications, Kaleyra, Vaco, and Incedo.*
 
-*Tooling: .NET, Angular, React, Scandit, computer vision, and many others.*
+* Led the move from fragmented enterprise systems to an API-first [Data Fabric](https://compositecode.blog/financial-services-data-fabric/), owning the roadmap, buy-vs-build evaluation, and measured ROI case.
+* Reduced backend operating cost by millions annually through system consolidation and architectural standardization.
+* Designed integration patterns for a multi-million-dollar white-label credit card platform.
+* Founded GraphQL and Java Spring Boot [Communities of Practice](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/) that grew from roughly a dozen to 80+ members in four months.
+* Built a Java Spring Boot [SMS spam detection service](https://compositecode.blog/spam-detection-project/) on AWS with Terraform and GitHub Actions for a telecommunications client.
 
-**QR Code Drink Tracking:** Built out and led the engineering team delivering QR-based drink tracking to close the order cycle gap, integrating Scandit's scanning technology into existing .NET-backed Angular and React web applications. Replaced estimated wait times with real-time fulfillment state, contributing to a 20-35% reduction in customer wait time and a 5-8% throughput improvement.
+### Hasura — Principal Product Manager
+Apr 2022 – Feb 2023 | Seattle, WA — Remote
 
-**Computer Vision Platform:** Established a reusable platform supporting POS timing, queue detection, and drive-thru analytics.
+* Founding member of a new product management team; built intake, discovery, prioritization, and an agreed definition of done, and synchronized Productboard and Jira across product and engineering.
+* Shipped [Instant GraphQL for Amazon Athena](https://hasura.io/blog/announcing-amazon-athena-integration) and [for Snowflake](https://hasura.io/blog/introducing-instant-graphql-apis-for-snowflake-cloud-data-platform), from customer discovery through launch.
 
-**Rollout & KPIs:** Sequenced a phased store rollout across store systems, mobile, and backend teams, validating releases against order accuracy, fulfillment latency, and throughput per store.
+### Amazon Web Services — Senior Technical Project Manager
+Nov 2021 – Apr 2022 | Seattle, WA — Remote
 
-### Principal Engineer (Architect, Consultant, Trainer)
-Composite Thrashing Code (CTC) - Owner/Consultant
-February 2023 - 2024 | Redmond, WA - Remote
+* Reference implementations, schema models, and production-grade CI/CD examples for AppSync, Amplify, GraphQL, and DynamoDB, plus developer guidance including ["How to connect your GraphQL API to AWS data sources"](https://aws.amazon.com/blogs/mobile/how-to-connect-your-graphql-api-to-aws-data-sources/).
 
-*Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, SQL, RESTful & GraphQL APIs, AWS, Terraform, Cloudformation, and many others.*
+### Hasura — Principal Developer Advocate
+Sep 2020 – Oct 2021 | Seattle, WA — Remote
 
-Clients include PNC Bank, Tata Communications, Kaleyra, Vaco, and Incedo. I built and led engineering teams that modernized APIs and data platforms.
+* Ran the feedback loop between customers, community, and internal product and engineering, while building reference architectures and GraphQL applications across major clouds and producing Hasura's streaming shows and video shorts.
 
-**[Spam Detection Project](https://compositecode.blog/spam-detection-project/):** A Spam-mitigation API service in Java Spring Boot, filtering SMS messages for spam, validating UDF/Data Types, and handling message format encoding/decoding. Deployed and managed on AWS using Terraform and GitHub Actions, with services for testing, environment management, and monitoring.
+### DataStax — Principal Cloud Architect / Principal Developer Advocate
+Jun 2018 – Aug 2020 | Seattle, WA — Remote
 
-**[Data Fabric Platform](https://compositecode.blog/financial-services-data-fabric/):** Led PNC's move from fragmented systems to an API-first Data Fabric, owning the roadmap, buy-vs-build evaluation, and ROI case. Consolidation and standardization cut backend operating cost by millions annually.
+* Architected key components of the Apache Cassandra DBaaS, [AstraDB](https://compositecode.blog/project-datastax-astradb/), across AWS, GCP, and Azure, and built reference application designs for large-scale microservice-based enterprise applications.
 
-**[Vertical Application Stacks](https://compositecode.blog/vertical-application-stacks-with-horizontal-infrastructure-as-code-a-journey-into-java-spring-boot-docker-k8s-and-continuous-deployment/):** Implemented reference and prototyping stacks with horizontal infrastructure as code assets for scalable, resilient, and continuously deployed Java Spring Boot APIs on Docker/K8s, with [logging, tracing, and observability patterns](https://compositecode.blog/logging-tracking-and-more-with-spring-boot/) built in.
+### Home Depot — Principal Software Engineer, SRE & Open Source Ethnographer
+2015 – 2016 | Orchards, WA — Hybrid
 
-**[Long-Term Financial Applications](https://compositecode.blog/development-patterns-for-long-term-financial-applications/):** Defined development patterns for building and maintaining long-lived financial applications.
+* Migrated from OpenStack to Google Cloud Platform and re-architected from vertical to horizontal scaling with Terraform and Packer; led the move to open source development practice, presented at the O'Reilly Software Architecture Conference in London.
 
-**Team Building & Mentorship:** Hired and built teams for API modernization projects, leading scoping, product planning, and aligning teams with project missions. Mentored across Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, and Apache Cassandra.
+### Earlier Experience
+1999 – 2017
 
-**[Communities of Practice](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/):** Founded GraphQL and Java Spring Boot communities that grew from roughly a dozen to 80+ members in four months.
+* **Startups & consulting:** Co-founder and CTO at Deconstructed (2013–2015), taking a distributed profile and business-rules engine on AWS from zero to MVP; Principal Software Engineer at Composite Thrashing Code / Pelotech (2016–2017) on e-commerce and IoT engagements.
+* **Enterprise & platform roles:** Russell Investments, CDK Global, Code Fellows, New Relic, Basho, Tier 3, Logic20/20, Webtrends, Bank of America (lead developer and Six Sigma team lead), Citigroup, Fidelity, Allstate, Corillian, and Lockheed Martin with NASA. See the [full resume](resume-long.md) for details.
 
-**Corporate Training:** Developed training focused on deployment solutions and plans using Terraform for Infrastructure as Code based on immutable infrastructure concepts.
+## Technical Depth
 
-### Principal Product Manager
-Hasura - Full Time
-April 2022 - February 2023 | Seattle, WA - Remote
+**Architecture & integration:** REST and GraphQL API design, event-driven and streaming systems (Kafka, Flink), microservices, distributed systems, legacy-to-modern migration.
 
-*Tooling: Java, C#, Python, JavaScript, PostgreSQL, Amazon Athena, Snowflake, AWS, GCP, Azure, and related cloud architecture and their related services, along with numerous other technologies for integration and architectural guidance.*
+**Cloud & platform:** AWS, Azure, GCP, Kubernetes, Docker, Terraform, CloudFormation, CI/CD and GitHub Actions, observability and SRE practice.
 
-I rejoined Hasura as a founding member of a new product management team, driving the transition to a more process-oriented approach. I led discussions on customer needs, use cases, design decisions, and new feature development, clearing the path for engineering.
+**Languages & data:** Go, Java, Python, JavaScript/TypeScript, C#, SQL; PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, Apache Cassandra, Snowflake, Amazon Athena.
 
-I also worked with engineering to synchronize Productboard and JIRA, streamlining processes and improving communication. This enabled more consistent and quality development from ideation to completion.
+**Gen AI & agentic:** Claude Enterprise, Claude Console, OpenAI API, OpenAI Codex; LLM-assisted SDLC, agent orchestration, retrieval and grounding, evaluation harnesses.
 
-Notable projects:
-1. [Instant GraphQL on Amazon Athena](https://hasura.io/blog/announcing-amazon-athena-integration)
-2. [Instant GraphQL on Snowflake](https://hasura.io/blog/introducing-instant-graphql-apis-for-snowflake-cloud-data-platform)
+## Education & Certifications
 
-### AWS Senior Technical Project Manager
-Amazon Web Services - Full Time
-November 2021 - April 2022 | Seattle, WA - Remote
-
-*Tooling: GraphQL, JavaScript, Python, AWS AppSync, AWS DynamoDB, and AWS across other serverless and related offerings.*
-
-60%: Focus on writing, researching, and producing data analysis for AppSync, Amplify, and related developer use. This includes coding production-level CI/CD examples, schema modeling, and website architecture and deployment.
-
-40%: Create documentation, articles, and written details on Amplify, AppSync, GraphQL, data infrastructure, DynamoDB, and other key AWS services.
-
-Example post: ["How to connect your GraphQL to AWS data sources"](https://aws.amazon.com/blogs/mobile/how-to-connect-your-graphql-api-to-aws-data-sources/).
-
-### Principal Developer Advocate
-Hasura - Full Time
-September 2020 - October 2021 | Seattle, WA - Remote
-
-*Tooling: GraphQL, PostgreSQL, Hasura, Terraform, JavaScript, C#, SQL, AWS, GCP, Azure, and related cloud architecture and their related services, along with numerous other technologies for integration and architectural guidance.*
-
-- 30%: Developing and prototyping application usage around GraphQL APIs with Hasura using JavaScript, Go, Python, and other languages.
-
-- 30%: Delivering presentations, reports, analysis, and training on GraphQL and its architectural design.
-
-- 20%: Providing DevOps guidance on deployment, maintenance, and architecture of Hasura and GraphQL API data services.
-
-- 20%: Leading communication between customers, community, and internal teams. Organizing and producing Hasura streaming shows and video content.
-
-Blog Posts @ Hasura: [here](https://hasura.io/blog/@adron).
-"A Hasura Bit" Video Shorts: [here](https://youtube.com/playlist?list=PL4f75Y6Ce5sty7iWwLUq55aZNiA9u7vWc&si=dDiY61IqJgtdU0iW).
-
-### Principal Cloud Architect / Principal Developer Advocate
-DataStax - Full Time
-Seattle, WA - Remote
-
-***Principal Cloud Architect during December 2019 - August 2020***
-
-*Tooling: GraphQL and RESTful APIs, Java, Python, Goland, JavaScript, Terraform, K8s, AWS, GCP, Azure, and related cloud architecture and their related services, along with numerous other technologies for integration and architectural guidance.*
-
-90% focused on designing, guiding, and implementing DataStax's Apache Cassandra DBaaS, [AstraDB](https://compositecode.blog/project-datastax-astradb/), primarily on GraphQL API implementation, reference application guidance, technical content, and leading customer and user outreach efforts.
-
-10% supporting architectural design and implementation with K8s, Docker, Go, and other tools for DBaaS deployment and related customer/user tooling for Apache Cassandra/DataStax Enterprise implementations.
-
-***Principal Developer Advocate during June 2018 - December 2019***
-
-*Tooling: Java, C#, Node.js, Python, Apache Cassandra, General API Technolgoies, and numberous others.*
-
-Developed and expanded reference application designs and guides for building large-scale enterprise applications using the KillrVideo code base. Utilized Java, C#, Node.js, and Python repositories for presentations, teaching, mentoring, and outreach.
-
-Organized and led various meetups in the Seattle region, focusing on database and data-centric development topics such as data modeling, architecture, and coding.
-
-Created technical content, including blogs and contributions to open source projects, and engaged with the software programming community through regular content creation.
-   * Blog: [compositecode.blog](https://compositecode.blog/)
-
-Initiated live-stream coding on Twitch and YouTube, covering topics like Apache Cassandra, DataStax Enterprise, Go, C#, JavaScript/Node.js, distributed systems, Terraform, DevOps, and more.
-   * Twitch: [thrashingcode](https://www.twitch.tv/thrashingcode)
-   * YouTube: [ThrashingCode](https://www.youtube.com/c/ThrashingCode)
-
-**Additional Contributions:**
-- [Articles/Blog Entries](https://www.datastax.com/our-people/adron-hall)
-- [Multi-cloud Challenges Video](https://www.datastax.com/resources/video/multi-cloud-challenges-adron-hall-and-patrick-mcfadin)
-- [Guest Appearance on The Open Source Show](https://learn.microsoft.com/en-us/shows/the-open-source-show/distributed-systems-demystified-cassandra-datastax-demo-and-faq)
-
-### Composite Thrashing Code - Consultancy/Contract
-
-*Principal Software Engineer*
-November 2016 - November 2017
-Seattle, WA - Remote
-
-Projects @ Pelo.Tech
-
-*Tooling: Utilized a technology-neutral approach, frequently employing Go, Node.js, Python, Java, and JavaScript (React) for multi-tier web development.*
-
-- **Rebuilt Company Site & Community Building**: Led efforts to revamp the company site, integrating community-building initiatives around development efforts, language stacks, and outreach.
-- **Developer Mentorship**: Guided developers in ramping up for various e-commerce and IoT projects.
-- **Business Development in Seattle**: Expanded outreach for development services and product offerings.
-
-Contributions to Startups
-
-- **Technical Hiring & Team Building**: Assisted startups with initial technical hires, team formation, and development processes.
-- **Lean Startup Approaches**: Advanced businesses with a focus on quality, user experience, and effective team assembly.
-- **Hands-On Development**: Provided initial coding, prototyping, and support for startups progressing toward MVP and v1.
-
-### Principal Software Engineer, SRE, & Open Source Ethnographer
-Home Depot - Full Time
-Orchards, WA - Hybrid
-
-*Tooling: Terraform, Packer, Golang, Node.js/JavaScript, AWS, GCP, Azure, OpenStack, Apache Cassandra, Neo4j, SQL Server, PostgreSQL, along with numerous others.*
-
-For an overview of my work at Home Depot, see these blog entries:
-- [Elastic Meetup and Quote Center Updates](https://compositecode.blog/2016/01/26/all-that-tech-sitrep-elastic-meetup-and-quote-center-updates/)
-- [New Job Announcement](https://compositecode.blog/2015/10/31/after-816-days-im-taking-a-job/)
-
-Key projects included:
-- Researching cultural shifts for effective open-source development.
-- Implementing strategies to transition from closed-source to open-source practices.
-- Presenting on these topics at the O'Reilly Architecture Conference in London. [Slides and info](https://compositecode.blog/confs-meetups-events/moving-enterprise-practices-and-development-to-open-source/).
-
-### Principal Developer
-Contract Work
-March 2012 - August 2015
-Portland, OR - Remote
-
-*Projects at CDK (May 2015 - August 2015)*
-
-Building and deploying a push notification server within CDK's internal infrastructure.
-Leading the challenge series, guiding interns and staff in determining use cases, product fit, and deployment options for internal applications.
-
-*Projects at Code Fellows (Feburary 2015 - April 2015)*
-
-I co-founded the Portland branch of Code Fellows School, serving as the initial instructor. I led the first multi-week training sessions focused on core web development skills, including HTML, CSS, and JavaScript, and explored various frameworks and libraries. Additional courses covered Git, IDEs, and related tools to provide a comprehensive education for aspiring junior developers.
-
-*Project at New Relic (March 2012-November 2014)*
-
-While running Deconstructed and while working with Tier 3 and Basho, I collaborated with New Relic to produce various blog series on Platform as a Service (PaaS) technologies, Node.js applications, and other topics. My work also appeared in related publications like Mashable, Silicon Angle, and ReadWriteWeb. Links to some of these articles can be found here: [My Work Elsewhere](https://compositecode.blog/write-up-series/my-work-elsewhere/).
-
-Tier 3 + New Relic - worked on integration and data collection of APM tooling, with their teams to integrate with PAAS environments like Cloud Foundry.
-Worked with New Relic & Basho for tooling integration around the Riak distributed database and the New Relic APM tooling.
-
-*Projects at Basho (December 2012 - August 2013)*
-
-Responsible for partnership scouting, assisting on sales calls, and managing partnership integration at New Relic and other companies. Handled community organizing, conference organization, and outreach in the Pacific Northwest, forming and managing the Seattle & Portland Basho & Riak User Groups.
-
-Attended, spoke at, and provided training at various conferences and user groups across the U.S.
-
-Developed and integrated vertical and horizontal projects using JavaScript (Node.js), Ruby (Rails, Sinatra), .NET, and other languages with Riak. Assisted customers with architecture, networking, security, and implementation of Riak, Redis, Neo4j, and Postgres, ensuring high availability, scalability, performance, and resilience in distributed data systems.
-
-*Projects at Tier 3 (March 2012 - November 2012)*
-
-I joined Tier 3 in March to lead the Web Fabric PaaS Team, expand the Iron Foundry Community, and advance the Thor Projects. After the initial release of the Tier 3 Web Fabric in May, I focused on advocacy, speaking at various events, and leading community efforts in mentoring and teaching.
-
-**Project Iron Foundry, Organization Coder & Community Lead (November 2012 - February 2013)**
-
-Collaborated with the open source community and the Tier 3 team to enable Cloud Foundry for .NET.
-
-### Co-founder & CTO of Deconstructured
-November 2013 - February 2015 | Portland, OR
-
-Core technology has been centered on Amazon Web Services (AWS) using their respective services: Elastic Beanstalk, CloudFormation, EC2, S3, RDS, Route 53, Identity & Access Management, and SQS. The system built on these AWS services was a core engine and multiple processor services for the engine all built with Node.js 0.10.x.
-
-For further work going into my career, check out my long resume [here](resume-long.md).
+* **Six Sigma Green Belt / DFSS** (2004): Grade A, top 1% of class.
+* **A.S. Computer Science,** Pearl River Community College (1996–1999): 3.7 GPA; Computer Science and InfoSec coursework audited at Louisiana State University (1996–1998).

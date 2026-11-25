@@ -193,7 +193,7 @@ a:focus-visible, .button:focus-visible { outline: 2px solid var(--accent); outli
   line-height: 1.32;
 }
 .resume h1 { margin: 0; font-size: 22pt; line-height: 1; color: var(--ink); letter-spacing: 0.5px; text-transform: uppercase; }
-.resume .headline { margin-top: 4px; font-size: 11.5pt; font-weight: 700; color: var(--accent); }
+.resume .headline { margin: 5px 0 0; font-size: 11.5pt; font-weight: 700; color: var(--accent); }
 .resume h1 + ul, .resume .headline + ul {
   display: flex;
   flex-wrap: wrap;
@@ -225,6 +225,9 @@ a:focus-visible, .button:focus-visible { outline: 2px solid var(--accent); outli
 .resume .subrole { margin: 7px 0 2px; color: var(--ink); font-weight: 700; }
 .resume .subrole em { font-style: normal; }
 .resume .tooling { color: var(--muted); font-size: 9.2pt; }
+.resume .clients { margin: 1px 0 3px; color: var(--muted); font-size: 9.2pt; font-style: italic; }
+.resume .clients a { color: inherit; }
+.resume h2 + p, .resume h2 + ul { margin-top: 0; }
 .resume p { margin: 4px 0; }
 .resume ul, .resume ol { margin: 3px 0 4px; padding-left: 18px; }
 .resume li { margin: 2px 0; }
