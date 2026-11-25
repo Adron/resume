@@ -2,6 +2,7 @@
 
 * [Word Version](https://github.com/Adron/resume/raw/main/Resume/resume-long.docx)
 * Redmond, WA (Seattle, WA Metro)
+* Email: adronhall@gmail.com
 * Blog: https://compositecode.blog/ - [Contact me](https://compositecode.blog/contact/)
 * LinkedIn: https://www.linkedin.com/in/adron/
 
@@ -11,19 +12,35 @@
 CTC - Owner/Consultant
 February 2023 - Present | Redmond, WA - Remote
 
-Clients Include: [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
+Clients Include: [Starbucks](https://www.starbucks.com/), [Tata Communications](https://en.wikipedia.org/wiki/Tata_Communications), [Kaleyra](https://en.wikipedia.org/wiki/Kaleyra), [PNC Bank](https://www.pnc.com/), [Vaco](https://www.vaco.com/), [Incedo](https://www.incedoinc.com/), and others.
 
-* Spam-mitigation API Service, written in Java Spring Boot, that provided an out of band processing to occur to filter SMS messages for spam and also processing for validity of UDF/Data Type, and encoding & decoding of message formats. Utilizing AWS w/ Terraform, Github Actions, and other respective services for deployment, testing, environment management, and monitoring/observability of service execution. ([More details](https://compositecode.blog/spam-detection-project/))
-* Architecture, design, and prototyping of Data Fabric Platform ([More details](https://compositecode.blog/financial-services-data-fabric/)) buy/build technologies for modernization of APIs. This involves working across teams and customers in financial organizations to ensure design elements meet requirements of data consumers and management capabilities of the respective organization, while ensuring ROI is met and measured.
-* Setting up groups within the organization around Communities of Practice. Specifically GraphQL Community of Practice and Java Spring Boot Community of Practice. ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
-* Where necessary implementing vertical application stacks for reference and prototyping with horizontal infrastructure as code assets for scaling, resiliency, deployment, management, and ongoing iterative development of Java Spring Boot based APIs via containerized (Docker/K8s) with continuous deployment.
-* Planning, organizing, and mentoring where needed for a wide array of data sources including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, Apache Cassandra, and other data source options as necessary.
-* Hiring and building teams for multiple projects centered around financial organizations application API modernization (going from X tech to RESTful & GraphQL APIs, custom resolvers, etc).
-* Leading multiple projects for teams; including scoping, identifying statement of work, user experience outcomes desired, initial product planning, building the right team with right hard and soft skills, and aligning them with the mission at hand.
-* Advocating technical solutions across teams internally through a Community of Practice for GraphQL (and related technologies). Grew the community from a small dozen to over 60 people in just a couple of weeks. Community is now going to exceed 80 members by our 4th month! For internal growth this is an excellent growth path among the data teams!
-* Created and built out some internal corporate training focused around deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
+I build and lead engineering teams for enterprise clients in retail, telecommunications, and financial services: shipping customer-facing capabilities, modernizing APIs and data platforms, and putting in place the reference stacks, infrastructure as code, and Communities of Practice that keep teams productive after a project ships.
 
-*Tooling: Java, Spring Boot, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, and many others.*
+**Starbucks: QR Code Scanning for Order Fulfillment**
+
+* Joined to build out and lead the engineering team tasked with delivering QR Code scanning technology to close the order cycle gap.
+* Led implementation of [Scandit](https://www.scandit.com/) scanning technology into existing .NET-backed Angular and .NET-backed React web applications.
+
+**Telecommunications: SMS Spam Mitigation**
+
+* Spam-mitigation API Service, written in Java Spring Boot, providing out of band processing to filter SMS messages for spam, validate UDF/Data Types, and encode & decode message formats. Deployed on AWS w/ Terraform and GitHub Actions, with services for testing, environment management, and monitoring/observability. ([More details](https://compositecode.blog/spam-detection-project/))
+
+**Financial Services: API & Data Modernization**
+
+* Architecture, design, and prototyping of a Data Fabric Platform ([More details](https://compositecode.blog/financial-services-data-fabric/)) evaluating buy/build technologies for API modernization. Worked across teams and customers in financial organizations to meet the requirements of data consumers and the organization's management capabilities, while ensuring ROI is met and measured.
+* Implemented vertical application stacks for reference and prototyping, with horizontal infrastructure as code assets for scaling, resiliency, deployment, management, and iterative development of containerized (Docker/K8s) Java Spring Boot APIs with continuous deployment. ([More details](https://compositecode.blog/vertical-application-stacks-with-horizontal-infrastructure-as-code-a-journey-into-java-spring-boot-docker-k8s-and-continuous-deployment/))
+* Established logging, tracing, and observability patterns for Spring Boot services. ([More details](https://compositecode.blog/logging-tracking-and-more-with-spring-boot/))
+* Defined development patterns for building and maintaining long-lived financial applications. ([More details](https://compositecode.blog/development-patterns-for-long-term-financial-applications/))
+* Hired and built teams for multiple API modernization projects (moving from legacy tech to RESTful & GraphQL APIs, custom resolvers, etc), leading scoping, statements of work, desired user experience outcomes, initial product planning, and aligning teams with the right hard and soft skills to the mission.
+* Planned, organized, and mentored across a wide array of data sources including Oracle, SQL Server, PostgreSQL, MySQL, MongoDB, and Apache Cassandra.
+
+**Engineering Practice & Team Productivity**
+
+* Set up GraphQL and Java Spring Boot Communities of Practice across the organization. ([More details](https://compositecode.blog/communities-of-practice-transforming-financial-software-development/))
+* Grew the GraphQL Community of Practice from a dozen to over 60 people in a couple of weeks, on pace to exceed 80 members by the fourth month.
+* Created internal corporate training on deployment solutions & plans using Terraform for Infrastructure as Code (IaC) based on immutable infrastructure concepts.
+
+*Tooling: Java, Spring Boot, .NET, Angular, React, Scandit, Mongo, PostgreSQL, SQL Server, Oracle, MySQL, Apache Cassandra, Kafka, Flink, Docker, K8s, AWS, Terraform, GitHub Actions, and many others.*
 
 ### Principal Product Manager
 Hasura - Full Time
@@ -74,7 +91,7 @@ Seattle, WA - Remote
 
 *Principal Cloud Architect during December 2019 - August 2020*
 
-90% Providing architectural plans (design), guidance (team leadership & coordination), and implementation (coding) of DataStax's Apache Cassandra DBaaS. My main area of focus has been on GraphQL API implementation, reference application guidance, technical content, and leading efforts around prospective customer and user outreach for these services.
+90% Providing architectural plans (design), guidance (team leadership & coordination), and implementation (coding) of DataStax's Apache Cassandra DBaaS, AstraDB ([More details](https://compositecode.blog/project-datastax-astradb/)). My main area of focus has been on GraphQL API implementation, reference application guidance, technical content, and leading efforts around prospective customer and user outreach for these services.
 
 10% Providing support around architectural design and implementation needs with K8s, Docker, Go, and other tooling used for DBaaS deployment and related customer/user tooling for the DBaaS and onsite Apache Cassandra/DataStax Enterprise implementations.
 
